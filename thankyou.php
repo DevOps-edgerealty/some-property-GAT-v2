@@ -155,7 +155,7 @@
   <header>
     <style>
       #intro {
-        background-image: url("images/5-2.webp");
+        background-image: url("images/img130.webp");
         height: 100vh;
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -169,7 +169,7 @@
       }
 
       #intro2 {
-			background-image: url("images/cover/5-2.webp");
+			background-image: url("images/cover/img734.webp");
 			height: 100vh;
 			background-repeat: no-repeat;
   			background-attachment: fixed;

@@ -123,7 +123,7 @@
 
 </header>
  	
-<div class="img-ovr hidden-md hidden-lg" style="background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/slider2-small.jpg);">
+<div class="img-ovr hidden-md hidden-lg" style="background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/slider2-small.webp);">
 	<div class="in-content">
 
 		<!-- <img src="images/logo.png" style="width: 450px; margin-top: -200px;" alt=" Madinat Jumeriah Living villas Logo"> -->
@@ -172,7 +172,7 @@
 
 </div>
 
-<div class="img-ovr hidden-xs hidden-sm" style="background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/slider2.jpg);">
+<div class="img-ovr hidden-xs hidden-sm" style="background-image:linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/slider2.webp);">
 	<div class="in-content" >
 		<!-- <img src="images/logo.png" style="width: 520px;"  alt=" Madinat Jumeriah Living villas Logo"><br><br> -->
 		<div class="row" style="background-color: #0000006b; width:40%; margin-top:150px;" >

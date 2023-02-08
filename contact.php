@@ -115,8 +115,8 @@ try {
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = 'Bluewaters Bay Residences';
-    $mail->Body    = ' <b>Bluewaters Bay Residences </b> <br><br> Name:'.$field_name.' <br><br> Phone: '.$field_phone.' <br><br> Email: '.$field_email
+    $mail->Subject = 'Tilal Al Ghaf';
+    $mail->Body    = ' <b>Tilal Al Ghaf </b> <br><br> Name:'.$field_name.' <br><br> Phone: '.$field_phone.' <br><br> Email: '.$field_email
     .'<br><br> Bedrooms: '.$field_bedrooms.'<br><br> Url: '.$field_url.
     '<br> UTM Parameter:'
     .$field_utm.
@@ -125,7 +125,7 @@ try {
 
     $mail->send();
     
-    header("Location: http://www.bluewatersproperties.com/thankyou.php");
+    header("Location: http://www.edgerealty.ae/tilal-al-ghaf/thankyou.php");
 
     
 } catch (Exception $e) {

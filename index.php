@@ -2,16 +2,7 @@
 <html>
 
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6GLBV0V17D"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
     
-      gtag('config', 'G-6GLBV0V17D');
-    </script>
-
 	<!--Favicon -->
 	<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
@@ -21,117 +12,42 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="Language" content="en">
 	<meta name="robots" content="follow,index">
-	<meta http-equiv="Cache-control" content="public">    
+	<meta http-equiv="Cache-control" content="public"> 
 	<meta charset="utf-8">
 
 
 	<!-- standard meta description -->
-	<meta name="description" content="Premium collection of 1 to 4-bedrooms waterfront apartments and penthouses at Bluewaters Island, a development by Meraas at Bluewaters Bay, Dubai.">
-	<meta name="keywords" content="penhouses, apartments, luxury penthouses, waterfront, waterfront apartments, waterfront penthouses, bluewaters, beachfront, beachfront apartments, beachfront penthouses, luxury apartments, better homes, luxury homes, real estate, luxury property, property investor, commercial property for sale, luxury real estate, homes for sale, dubai, dubai life style, living in dubai, dubai homes, real estate, real estate companies, reit, real estate near me, real estate investors, property investors">
+	<meta name="description" content="Lay by the beach, or relax at the park. Tilal Al Ghaf provides multiple options for residents to unwind. See the full list of your real estate property.">
+	<meta name="keywords" content="town house, luxury villa, better homes, luxury homes, real estate, luxury property, property investor, commercial property for sale, luxury real estate, homes for sale, premium villas, villa, premium town houses, luxury town houses, dubai, dubai life style, living in dubai, dubai houses, dubai villas, dubai town houses, real estate, real estate companies, reit, real estate near me, real estate investors, property investors">
 	<meta name="author" content="Edge Realty">
 
 
 	<!--  Essential META Tags -->
-	<meta property="og:title" content="Meraas Bluewaters Residences, Dubai - Waterfront Apartments">
+	<meta property="og:title" content="Premium Town Houses, Villas & Mansions in Dubai | Tilal Al Ghaf Dubai">
+	<meta property="og:description" content="Lay by the beach, or relax at the park. Tilal Al Ghaf provides multiple options for residents to unwind. See the full list of your real estate property." />
+	<meta property="og:url" content="https://www.edgerealty.ae/tilal-al-ghaf">
+	<meta property="og:site_name" content="Tilal Al Ghaf">
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="">
-	<meta property="og:url" content="">
-	<meta name="twitter:card" content="summary_large_image">
+	<meta property="og:image" content="/images/og/img36.png">
+
+	<meta property="og:image:type" content="image/png">
+	<meta property="og:type" content="product">
+	<meta property="og:locale" content="en_US">
+	
 
 
 	<!--  Non-Essential, But Recommended -->
-	<meta property="og:description" content="Premium collection of 1 to 4-bedrooms waterfront apartments and penthouses at Bluewaters Island, a development by Meraas at Bluewaters Bay, Dubai.">
-	<meta property="og:site_name" content="Meraas Bluewaters Residences, Dubai - Waterfront Apartments">
-	<meta name="twitter:image:alt" content="Meraas Bluewaters Residences">
+	<meta name="twitter:image:alt" content="Tilal Al Ghaf Dubai">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@edgerealtydubai">
 
 
 	<!--  Non-Essential, But Required for Analytics -->
 	<meta property="fb:app_id" content="your_app_id" />
-	<meta name="twitter:site" content="@edgerealtydubai">
-
-
-	<title>Meraas Bluewaters Residences, Dubai - Waterfront Apartments</title>
-
-
-	<!-- meta tags for tracking -->
-	
-	    
-	
-		<!-- Meta Pixel Code -->
-			<script>
-			!function(f,b,e,v,n,t,s)
-			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-			n.queue=[];t=b.createElement(e);t.async=!0;
-			t.src=v;s=b.getElementsByTagName(e)[0];
-			s.parentNode.insertBefore(t,s)}(window, document,'script',
-			'https://connect.facebook.net/en_US/fbevents.js');
-			fbq('init', '932951058110389');
-			fbq('track', 'PageView');
-			</script>
-			<noscript><img height="1" width="1" style="display:none"
-			src="https://www.facebook.com/tr?id=932951058110389&ev=PageView&noscript=1"
-			/></noscript>
-		<!-- End Meta Pixel Code -->
-
-
-		<!-- Snap Pixel Code -->
-			<script type='text/javascript'>
-			(function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()
-			{a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)};
-			a.queue=[];var s='script';r=t.createElement(s);r.async=!0;
-			r.src=n;var u=t.getElementsByTagName(s)[0];
-			u.parentNode.insertBefore(r,u);})(window,document,
-			'https://sc-static.net/scevent.min.js');
-
-			snaptr('init', '0fc2711f-c6dd-4564-a689-4cae65d8537b', {
-			'user_email': '__INSERT_USER_EMAIL__'
-			});
-
-			snaptr('track', 'PAGE_VIEW');
-
-			</script>
-		<!-- End Snap Pixel Code -->
 
 
 
-
-		<!-- Yandex.Metrika counter -->
-			<script type="text/javascript" >
-			(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-			m[i].l=1*new Date();
-			for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-			k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-			(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-			ym(91619279, "init", {
-					clickmap:true,
-					trackLinks:true,
-					accurateTrackBounce:true,
-					webvisor:true
-			});
-			</script>
-			<noscript><div><img src="https://mc.yandex.ru/watch/91619279" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-		<!-- /Yandex.Metrika counter -->
-		
-		
-		
-		<!-- Hotjar Tracking Code for Bluewaters Bay -->
-            <script>
-                (function(h,o,t,j,a,r){
-                    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-                    h._hjSettings={hjid:3286182,hjsv:6};
-                    a=o.getElementsByTagName('head')[0];
-                    r=o.createElement('script');r.async=1;
-                    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-                    a.appendChild(r);
-                })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-            </script>
-        <!-- Hotjar Tracking Code for Bluewaters Bay -->
-        
-
-	<!-- meta tags for tracking -->
+	<title>Premium Town Houses, Villas & Mansions in Dubai | Tilal Al Ghaf Dubai</title>
 
 
 
@@ -145,8 +61,9 @@
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
 	<link href="css/old/responsive.css" rel="stylesheet">
 	<link href="css/intlTelInput.css" rel="stylesheet">
-	<link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
 	<link href="css/lightbox.css" rel="stylesheet" />
+	<link rel="stylesheet" href="owlcarousel/scss/owl.carousel.min.css">
+	<link rel="stylesheet" href="owlcarousel/scss/owl.theme.default.min.css">
 
 
 
@@ -158,23 +75,23 @@
 	<style>
 
 		html, body {
-				max-width: 100%;
-				overflow-x: hidden;
-				height: 100%;
-				scroll-behavior: smooth;
-			}
+			max-width: 100%;
+			overflow-x: hidden;
+			height: 100%;
+			scroll-behavior: smooth;
+		}
 
-			body, h1, h2, h3, h4, h5  {
-				font-family: 'Kanit', sans-serif !important;
-			}
+		body, h1, h2, h3, h4, h5  {
+			font-family: 'Kanit', sans-serif !important;
+		}
 
-			.font-kanit  {
-				font-family: 'Kanit', sans-serif !important;
-			}
+		.font-kanit  {
+			font-family: 'Kanit', sans-serif !important;
+		}
 
-			p {
-				font-family: 'Poppins', sans-serif !important;
-			}
+		p {
+			font-family: 'Poppins', sans-serif !important;
+		}
 
 
 		.float {
@@ -196,81 +113,98 @@
 			margin-top:16px;
 		}
 		@media  screen and (min-width: 600px) {
-				.hide-form-desktop {
-					
+			.hide-form-desktop {
+				
 
-					display: contents !important;
-				}
+				display: contents !important;
 			}
+		}
 
-			.hide-from-desktop {
-				display: none;
-			}
-
-
-			.masthead {
-				height: 100vh;
-				min-height: 500px;
-				background-image: url(images/amenities/amenities4.jpg);
-				background-size: cover;
-				background-position: center;
-				background-repeat: no-repeat;
-			}
-			
+		.hide-from-desktop {
+			display: none;
+		}
 
 
-			.mask-custom {
-				backdrop-filter: blur(px);
-				background-color: rgba(0, 0, 0, 0.55);
-			}
-
-			.mask-custom2 {
-				backdrop-filter: blur(3px);
-				background-color: rgba(255, 255, 255, 0.04);
-			}
-
-			.mask-custom3 {
-				backdrop-filter: blur(10px);
-				background-color: rgba(255, 255, 255, 0.3);
-			}
-
+		.masthead {
+			height: 100vh;
+			min-height: 500px;
+			background-image: url(images/amenities/amenities4.webp);
+			background-size: cover;
+			background-position: center;
+			background-repeat: no-repeat;
+		}
 		
 
-			.mask-custom-mobile {
-				background-color: rgba(0, 0, 0, 0.15);
-			}
 
-			.mask-custom-mobile3 {
-				backdrop-filter: blur(0px);
-				background-color: rgba(0, 0, 0, 0.35);
-			}
+		.mask-custom {
+			backdrop-filter: blur(px);
+			background-color: rgba(0, 0, 0, 0.55);
+		}
+
+		.mask-custom2 {
+			backdrop-filter: blur(3px);
+			background-color: rgba(255, 255, 255, 0.04);
+		}
+
+		.mask-custom3 {
+			backdrop-filter: blur(10px);
+			background-color: rgba(255, 255, 255, 0.3);
+		}
 
 	
 
-			#myBtn {
-				display: none; /* Hidden by default */
-				position: fixed; /* Fixed/sticky position */
-				bottom: 20px; /* Place the button at the bottom of the page */
-				width: 50px;
-				right: 30px; /* Place the button 30px from the right */
-				z-index: 99; /* Make sure it does not overlap */
-				border: none; /* Remove borders */
-				outline: none; /* Remove outline */
-				background-color: white; /* Set a background color */
-				color: black; /* Text color */
-				cursor: pointer; /* Add a mouse pointer on hover */
-				padding: 15px; /* Some padding */
-				border-radius: 10px; /* Rounded corners */
-				font-size: 14px; /* Increase font size */
-			}
+		.mask-custom-mobile {
+			background-color: rgba(0, 0, 0, 0.15);
+		}
 
-			#myBtn:hover {
-				background-color: #000; /* Add a dark-grey background on hover */
-				color: white;
-			}
+		.mask-custom-mobile3 {
+			backdrop-filter: blur(0px);
+			background-color: rgba(0, 0, 0, 0.35);
+		}
 
-			
-			
+
+
+		#myBtn {
+			display: none; /* Hidden by default */
+			position: fixed; /* Fixed/sticky position */
+			bottom: 20px; /* Place the button at the bottom of the page */
+			width: 50px;
+			right: 30px; /* Place the button 30px from the right */
+			z-index: 99; /* Make sure it does not overlap */
+			border: none; /* Remove borders */
+			outline: none; /* Remove outline */
+			background-color: white; /* Set a background color */
+			color: black; /* Text color */
+			cursor: pointer; /* Add a mouse pointer on hover */
+			padding: 15px; /* Some padding */
+			border-radius: 10px; /* Rounded corners */
+			font-size: 14px; /* Increase font size */
+		}
+
+		#myBtn:hover {
+			background-color: #000; /* Add a dark-grey background on hover */
+			color: white;
+		}
+
+		.customButtonTransform {
+			background-color: #000;
+			color: #fff;
+		}
+
+		button:hover {
+			background-color: #000;
+			color: #fff !important;
+		}
+
+		.bg-option1 {
+			background-color: #e6e6e6;
+			color: #000;
+		}
+
+		.bg-option2 {
+			background-color: #f2f2f2;
+			color: #000;
+		}
 	</style>
 
 
@@ -281,36 +215,29 @@
 <body>
 	<?php
 		
-
 		$utm_campaign = (isset($_GET['utm_campaign']) ? $_GET['utm_campaign'] : null);
 		$utm_source = (isset($_GET['utm_source']) ? $_GET['utm_source'] : null);
 		$utm_medium = (isset($_GET['utm_medium']) ? $_GET['utm_medium'] : null);
 		$utm_content = (isset($_GET['utm_content']) ? $_GET['utm_content'] : null);
 		$utm_term = (isset($_GET['utm_term']) ? $_GET['utm_term'] : null);
-
-	?> 
-
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3MCJFJ"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
+	?> 	
 
 	<header style="z-index: 1;">
 		<style>
 			#intro-desk {
-				background-image: url("images/1.webp");
+				background-image: url("images/img130.webp");
 				height: 100vh;
 				background-repeat: no-repeat;
-				background-attachment: fixed;
-				/* background-position: center; */
+				background-attachment: fixed;				
+				background-position: bottom;
 				z-index: 1 !important;
 			}
 
 			#intro-mobile {
-				background-image: url("images/1.webp");
+				background-image: url("images/img31.webp");
 				height: 100vh;
 				background-repeat: no-repeat;
-				background-position: bottom;
+				background-position: top;
 			}
 
 			@media (min-width: 992px) {
@@ -343,8 +270,9 @@
 
 			.zoom_hover:hover {
 				transform: scale(1.1); 
-				background-color: #fff !important;
-				color: #000 !important;
+				background-color: #000 !important;
+				color: #fff !important;
+				border: 1px #fff solid !important;
 				font-weight: bolder;
 			}
 
@@ -391,41 +319,51 @@
 				70% { top: -0.3em; }
 				100% { top: 0; }
 			}
+
 		</style>
 
 		<!-- Desktop Hero -->
-		<div id="intro-desk" class="bg-image shadow-2-strong d-md-block d-lg-block d-none intro2" style="height: 100vh; z-index: 1;">
-			<div class="mask" style="background-color: rgba(0,0,0, 0.3);">
-				<div class="container d-flex align-items-top justify-content-left text-left h-100 ">
-					<div class="text-white">
+		<div id="intro-desk" class="bg-image shadow-2-strong d-md-block d-lg-block d-none intro2" style="height:85vh; z-index: 1;">
+			<div class="mask" style="background-color: rgba(0,0,0, 0.2); ">
+				<div class="container d-flex align-items-top justify-content-left text-left h-100 " sty>
+					<div class="col-md-7 text-white">
 
-						<div style="margin-top: 100px;">
-						
-							<a href="https://www.edgerealty.ae"><img src="images/logo.png" style="height: 50px" class="my-4 ms-0"/></a>
-							<a href="https://www.edgerealty.ae"><img src="images/cover/logo.png" style="height: 30px" class="my-4 ms-4"/></a>
-							<h1 class="mb-5 mt-3 text-uppercase fw-bolder mx-0 px-0" style="font-size: 5.5em; line-height: 1">
-								Bluewaters <br> Bay
+						<div style="margin-top: 100px; "  class="rounded-3 p-4">						
+							<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="https://www.edgerealty.ae">
+								<img  alt="tilal al ghaf"  src="images/logo.png" style="height: 30px" alt="tilal al ghaf" class="my-4 ms-0"/>
+							</a>
+							<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="https://www.edgerealty.ae">
+								<img  alt="tilal al ghaf"  src="images/cover/logo.png" style="height: 30px" alt="tilal al ghaf" class="my-4 ms-4"/>
+							</a>
+							<h1 class="mb-5 mt-5 text-uppercase fw-bolder mx-0 px-0" style="font-size: 5.4em;">
+								Tilal Al Ghaf
 							</h1>
-							<h2 class="mb-4 mt-2 text-capitalize fw-bolder w-75" style="font-size: 1.8rem; ">
-								A seaside address unlike any other
+							<h2 class="mb-0 mt-5 text-capitalize fw-bolder w-100 " style="font-size: 1.8rem; ">
+								<!-- A curated ultra-luxury retreat -->
+								<mark class="bg-white">A curated ultra-luxury retreat</mark>
 							</h2>
-							<p class="mb-5 mt-4  w-50" style="font-size: 1.2rem; line-height: 1.2 ">
-								Surrounded by Bluewaters island, The Palm and JBR, Bluewaters Bay is set to be the new benchmark in waterfront living.
+							<p class="mb-5 mt-0  w-75 border-start border-white border-3 ps-3 py-3 text-justify fw-bold" style="font-size: 1rem; line-height: 1.5; text-align: justify;">
+								Beyond white sandy beaches shaded by palm trees and bordered by verdant vegetation, exclusive estate homes sit in lush landscaped gardens
 							</p>
-							<div class="row mb-4 w-50 ">
-								<div class="col-6 " >
-									<p class="py-2 fw-bold text-uppercase bg-white text-dark rounded-1 text-center" style="font-size: 1rem; border: 2px solid #fff;">
-									Penthouses
-									</p>
-								</div>
-								<div class="col-6 " >
+							<!-- <div class="row mb-4 w-50 ">
+								<div class="col-4 " >
 									<p class="py-2 fw-bold text-uppercase  rounded-1 text-center" style="font-size: 1rem; border: 2px solid #fff;">
-									Apartments
+									Townhouses
 									</p>
 								</div>
-							</div>
+								<div class="col-4 " >
+									<p class="py-2 fw-bold text-uppercase bg-white text-dark rounded-1 text-center" style="font-size: 1rem; border: 2px solid #fff;">
+									Stand Alone Villas
+									</p>
+								</div>
+								<div class="col-4 " >
+									<p class="py-2 fw-bold text-uppercase  rounded-1 text-center" style="font-size: 1rem; border: 2px solid #fff;">
+										Mansions
+									</p>
+								</div>
+							</div> -->
 							
-							<a class="btn btn-white btn-lg m-2 zoom_hover bounce fw-bold mb-3 mx-0" style="font-size: 1.2rem; color: #000;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+							<a class="btn btn-white btn-lg m-2 mt-3 rounded-0 zoom_hover bounce fw-bold mb-3 mx-0" style="font-size: 1.2rem; color: #000;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
 								Register your Interest
 							</a>
 							<br>
@@ -443,60 +381,55 @@
 		</div>
 
 		<!-- Mobile Hero -->
-		<div id="intro-mobile" class="bg-image shadow-2-strong d-md-block d-block d-lg-none " style="height: 100vh; z-index: 1;">
-			<div class="mask " style="background-color: rgba(0, 0, 0, 0.5);">
-				<div class="container d-flex align-items-top justify-content-left text-left h-100 ">
-				<div class="text-white mx-2">
-					<!--<div class="float-left ms-auto mb-0 mt-3">-->
-					<!--	<a href="https://www.bluewatersproperties.com/ar" class="text-white mx-2 text-decoration-underline" style="font-size: 1rem;">-->
-					<!--		AR-->
-					<!--	</a>-->
+		<div id="intro-mobile" class="bg-image shadow-2-strong d-md-block d-block d-lg-none " style="height: 85vh; z-index: 1;">
+
+			<div class="mask " style="background-image: linear-gradient(to top, rgba(255,0,0,0), rgba(10,20,50,0.5));">
+
+				<div class="container d-flex align-items-top justify-content-left text-left h-100 px-0 ">
+
+					<div class="text-white mx-0" >
+						<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="https://www.edgerealty.ae"><img  alt="tilal al ghaf"  src="images/cover/logo.png" alt="tilal al ghaf"  style="height: 25px" class="my-1 mx-auto mt-5"/></a>
+						<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="https://www.edgerealty.ae"><img  alt="tilal al ghaf"  src="images/logo.png" alt="tilal al ghaf"  style="height: 25px" class="my-1 mx-auto mt-5 px-3"/></a>
+
+						<hr class="mb-2 mt-1 me-auto bg-white border" style="width: 175px;">
 						
-					<!--	<a href="https://www.bluewatersproperties.com/ru" class="text-white mx-2 text-decoration-underline" style="font-size: 1rem;">-->
-					<!--		RU-->
-					<!--	</a>-->
-					<!--</div>-->
-					<a href="https://www.edgerealty.ae"><img src="images/cover/logo.png" style="height: 25px" class="my-1 mx-auto mt-5"/></a>
-					<a href="https://www.edgerealty.ae"><img src="images/logo.png" style="height: 40px" class="my-1 mx-auto mt-5 px-3"/></a>
+						<div style="margin-top: 60px;" class="rounded-0 p-3">
+						<!-- <div style="margin-top: 60px; " class="rounded-1 p-3"> -->
+							<h3 class="mb-2 mt-3 text-uppercase " style="font-size: 2.7rem; font-weight: bold; line-height: 1.2;  ">
+								Tilal Al Ghaf
+							</h3>
 
-					<hr class="mb-2 mt-1 me-auto bg-white border" style="width: 180px;">
-					
-					<div style="margin-top: 60px;">
-						<h3 class="mb-2 mt-3 text-uppercase" style="font-size: 2.7rem; font-weight: bold; line-height: 1.3;">
-							 Bluewaters <br>Bay
-						</h3>
+							<div class="row my-2">
+								<h2 class=" text-capitalize fw-bold mt-3" style="font-size: 1.2em; line-height: 1.5">
+									<mark class="bg-white">A curated ultra-luxury retreat</mark>
+								</h2>
+							</div>
 
-						<div class="row my-2">
-							<h2 class=" text-capitalize fw-bold mt-3" style="font-size: 1.5rem;">
-								A seaside address unlike any other
-							</h2>
-						</div>
-
-						<div class="row my-2">
-							<p class="mb-0" style="font-size: 1rem; line-height: 1.5">
-								Surrounded by Bluewaters island, The Palm and JBR, Bluewaters Bay is set to be the new benchmark in waterfront living.
-							</p>
-						</div>
-
-						<!-- <div class="row mb-4">
-							<div class="col-6 " >
-								<p class="py-2 fw-bold text-uppercase bg-white text-dark rounded-1" style="font-size: 1rem; border: 2px solid #fff;">
-								Penthouses
+							<div class="row my-2" >
+								<p class="mb-0 fw-bold py-2 " style="font-size: .8em; line-height: 1.3; text-align: justify; ">
+									Beyond white sandy beaches shaded by palm trees and bordered by verdant vegetation, exclusive estate homes sit in lush landscaped gardens. 
 								</p>
 							</div>
-							<div class="col-6 " >
-								<p class="py-2 fw-bold text-uppercase  rounded-1" style="font-size: 1rem; border: 2px solid #fff;">
-								Apartments
-								</p>
-							</div>
-						</div> -->
 
-						<!-- <hr class="mb-3 mx-auto bg-white border" style="width: 100px;"> -->
-						
-						<button class="btn btn-white btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">Download brochure</button>
+							<!-- <div class="row mb-4">
+								<div class="col-6 " >
+									<p class="py-2 fw-bold text-uppercase bg-white text-dark rounded-1" style="font-size: 1rem; border: 2px solid #fff;">
+									Penthouses
+									</p>
+								</div>
+								<div class="col-6 " >
+									<p class="py-2 fw-bold text-uppercase  rounded-1" style="font-size: 1rem; border: 2px solid #fff;">
+									Apartments
+									</p>
+								</div>
+							</div> -->
+
+							<!-- <hr class="mb-3 mx-auto bg-white border" style="width: 100px;"> -->
+							
+							<button class="btn btn-white btn-lg m-1 zoom_hover bounce mt-2 fw-light rounded-0" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">Download brochure</button>
+						</div>
+
 					</div>
-
-				</div>
 				</div>
 			</div>
 		</div>
@@ -506,13 +439,14 @@
 			<div class=" modal-dialog modal-dialog-centered rounded-0">
 				<div class="modal-content rounded-0">
 				<div class="modal-header bg-black border-none rounded-0 p-0">
-					<img src="images/1.webp" height="75px" style="height: 100%; width: 100%;">
+					<img  alt="tilal al ghaf"  src="images/img23.webp" alt="tilal al ghaf"  height="75px" style="height: 100%; width: 100%;">
 				</div>
-				<div class="modal-body pt-1">
+				<div class="modal-body pt-1 pb-0">
 					<div class=" text-center">
-
 							<div class="col-md-12 mx-auto">
-								<h4 class="text-uppercase fw-bold my-auto py-2 text-dark" style="font-size: 2em">Bluewaters Bay</h4>
+								<h4 class="text-uppercase fw-bold my-auto py-2 text-dark" style="font-size: 2em">
+									Tilal Al Ghaf
+								</h4>
 
 								<form action="contact.php"  method="post">
 									<!-- Name input -->
@@ -547,22 +481,24 @@
 										<select name="bedrooms" class="form-control1 fs-6 text text-dark w-100 rounded" required 
 										style="padding: 10px 10px; line-height: 28px; border-style: 1px; border-color:#999; ">
 											<option value="" style="color: #4F4F4F !important;">How Many Bedrooms?</option>
-											<option value="1 Bedrooms">1 Bedroom</option>
-											<option value="2 Bedrooms">2 Bedroom</option>
-											<option value="3 Bedrooms">3 Bedrooms</option>
-											<option value="4 Bedrooms">4 Bedrooms</option>
+											<option value="3 Bedroom Townhouse">3 Bedroom Townhouse</option>
+											<option value="4 Bedroom Townhouse">4 Bedroom Townhouse</option>
+											<option value="4 Bedroom Standalone Villa">4 Bedroom Standalone Villa</option>
+											<option value="5 Bedroom Standalone Villa">5 Bedroom Standalone Villa</option>
+											<option value="6 Bedroom Standalone Villa">6 Bedroom Standalone Villa</option>
+											<option value="Mansion">Mansion</option>
 										</select>
 									</div>
 
 									<!-- Submit button -->
-									<button type="submit" style="font-size: 1rem;" class="btn btn-black btn-block btn-lg mb-4 text-uppercase">REGISTER YOUR INTEREST</button>
+									<button type="submit" style="font-size: 1rem;" class="btn btn-black btn-block btn-lg mb-1 text-uppercase rounded-0">REGISTER YOUR INTEREST</button>
 								</form>
 							</div>
 					</div>
 				</div>
-				<!-- <div class="modal-footer">
-					<button type="button" class="btn btn-mute" data-mdb-dismiss="modal">Close</button>
-				</div> -->
+				<div class="modal-footer py-0">
+					<button type="button" class="btn btn-mute rounded-0" data-mdb-dismiss="modal">Close</button>
+				</div>
 				</div>
 			</div>
 		</div>
@@ -570,9 +506,7 @@
 
 
 
-
-
-	<main class="pt-4 m-0" style="z-index: 99 !important;">
+	<main class="pt-0 m-0" style="z-index: 99 !important;">
 		<!-- <div class="container-fluid px-0 mx-0 mb-0 pb-0"> -->
 			<style>
 				/* right bounce */
@@ -656,10 +590,65 @@
 			</style>
 
 
-			<!-- About Desktop -->
-			<section id="amenities-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
+			<!-- ABOUT DESKTOP -->
+			<section id="about-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
 
-				<div class="row pt-5">
+				<!-- <div class="row mx-auto text-center mt-4">
+					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+						<img  alt="tilal al ghaf"  src="images/img48.webp" alt="tilal al ghaf"  class="rounded-circle shadow" width="200px;" height="200px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" id="myDIV" style="font-size: 1.5rem;">AED 2.4 Million</p>
+						<p class="text-muted mt-0 pt-0 mb-0 pb-0">Starting Price</p>
+						<button class="btn btn-sm text-muted mt-1 py-1 " onclick="myFunction()" id="myDIV2">IN Euro</button>
+					</div>
+
+					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+						<img  alt="tilal al ghaf"  src="images/img264.webp" alt="tilal al ghaf"  class="rounded-circle shadow" width="200px;" height="200px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" style="font-size: 1.5rem;">Q2 2023</p>
+						<p class="text-muted mt-0 pt-0">Handover</p>
+					</div>
+
+					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+						<img  alt="tilal al ghaf"  src="images/img30 copy.webp" alt="tilal al ghaf"  class="rounded-circle shadow" width="200px;" height="200px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" style="font-size: 1.5rem;">Luxury</p>
+						<p class="text-muted mt-0 pt-0">Type</p>
+					</div>
+				</div> -->
+
+				<!-- TOWNHOUSE - VILLA - MANSIONS -->
+				<div class="row pt-5" >
+					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 text-right mx-0" style="z-index: 1; ">
+						<!-- <div class="card mx-0 px-0 my-auto shadow-sm" style="height: 100px !important;"> -->
+							<button class="shadow-none rounded-0 mx-0 px-0 my-auto btn w-100 customButton01 customButtonTransform " onclick="swapTownhouse()">
+								<p class=" fw-bold my-2 py-0 font-kanit" style="font-size: 2.5rem; line-height: 1;" >
+									Townhouses
+								</p>
+								<!-- <hr class="my-0 border border-2 border-warning mx-auto townhouseActive" id="townhouseActive" style="width: 100px; background-color: #f4a055;	 display: block"> -->
+							</button>
+						<!-- </div> -->
+					</div>
+					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 text-right mx-0" style="z-index: 1; ">
+						<!-- <div class="card mx-0 px-0 my-auto shadow-sm" style="height: 100px !important;"> -->
+							<button class="shadow-none rounded-0 mx-0 px-0 my-auto btn w-100 customButton02 bg-option1" onclick="swapVillas()">
+								<p class=" fw-bold my-2 py-0 font-kanit" style="font-size: 2.5rem; line-height: 1; margin-top: 50px;">
+									Standalone Villas
+								</p>	
+								<!-- <hr class="my-0 border border-2 border-warning mx-auto villaActive" id="villaActive" style="width: 100px; background-color: #f4a055;	 display: none"> -->
+							</button>
+						<!-- </div> -->
+					</div>
+					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 text-right mx-0" style="z-index: 1; ">
+						<!-- <div class="card mx-0 px-0 my-auto shadow-sm" style="height: 100px !important; "> -->
+							<button class="shadow-none rounded-0 mx-0 px-0 my-auto btn w-100 customButton03 bg-option2" onclick="swapMansions()">
+								<p class=" fw-bold my-2 py-0 font-kanit" style="font-size: 2.5rem; line-height: 1; margin-top: 50px;">
+									Mansions
+								</p>	
+								<!-- <hr class="my-0 border border-2 border-warning mx-auto mansionActive" id="mansionActive" style="width: 100px; background-color: #f4a055;	 display: none"> -->
+							</button>
+						<!-- </div> -->
+					</div>
+				</div>
+
+				<!-- <div class="row pt-5">
 					<div class="col-md-4 gx-5 mb-4 pt-0 px-2 text-right mx-0" style="z-index: 1; ">
 						<div class="card mx-0 px-0 my-auto shadow-md" style="height: 180px !important;">
 							<div class="my-auto">
@@ -690,798 +679,2266 @@
 						</div>
 						</div>
 					</div>
-				</div>
-
-				<div class="row pt-4 mx-0">
-					<h4 style="font-size: 3rem;  width: 900px" class="text-uppercase pt-0 rounded-5 mb-1 px-0">
-						<strong>Bluewaters Bay</strong>
-					</h4>
-					<div class="mx-auto px-0">
-						<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
-					</div>
-					<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
-						Amenities
-					</p>
-					<div class="col-md-7 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
-						<div class="bg-image hover-overlay ripple mx-0" data-mdb-ripple-color="light">
-							<p class="text-muted mx-0" style="font-size: .9rem; width: 600px">
-								With its open-plan apartment layouts, Bluewaters
-								Bay has been designed to let the inside-out and the
-								outside-in, inspiring a lifestyle that's lived in harmony
-								with the surrounding world – from the bright lights of
-								Bluewaters to the sparkling waters of the Arabian Gulf.
-								Creating a home that combines the calmness and solitude
-								of a seaside location, with the glamour and energy of a
-								bustling destination.
-							</p>
-						</div>
-					</div>
-
-					<div class="col-md-5 gx-5 mb-4 pt-0 px-0 mx-0" style="z-index: 2;">
-						
-						<p class="text-muted" style="font-size: .9rem; width: 600px">
-							The main access point for Bluewaters Bay is directly from
-							Bluewaters Bridge, which is linked to Sheikh Zayed Road.
-							This vital connection makes it convenient for residents
-							to head towards Bluewaters Island, with an easy path back
-							towards Dubai&#39;s most major highway
+				</div> -->
+				
+				<!-- TOWNHOUSE DESCRIPTION -->
+				<div class="row pt-4 mx-0" id="townhouses" style="display: block;">
+					<div class="row">
+						<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+							TOWNHOUSES - ELAN & AURA GARDENS
 						</p>
 					</div>
-				</div>
-
-				<div class="row mx-auto text-center mt-4">
-
-					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
-						<img src="images/circle1.webp" class="rounded-circle shadow" width="200px;" height="200px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" style="font-size: 1.5rem;">Luxury</p>
-						<p class="text-muted mt-0 pt-0">Landscapes</p>
-					</div>
-
-					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
-						<img src="images/circle2.webp" class="rounded-circle shadow" width="200px;" height="200px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" style="font-size: 1.5rem;">Recreational</p>
-						<p class="text-muted mt-0 pt-0">Centers</p>
-					</div>
-
-					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
-						<img src="images/circle3.webp" class="rounded-circle shadow" width="200px;" height="200px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" style="font-size: 1.5rem;">Infinity</p>
-						<p class="text-muted mt-0 pt-0">Pool</p>
-					</div>
-				</div>
-			</section>
-
-			<!-- About Mobile -->
-			<section id="amenities-mobile" class="d-md-block d-block d-lg-none px-4 py-3">
-				<div class="row">					
-					<div class="col-md-6 gx-5 mb-0 px-0 mx-0">
-						<div class="row mt-0">
-							<div class="col-6 px-3">
-								<div class="card shadow mx-0 px-0 " style="height: 140px;">
-									<div class="card-body my-auto">
-										<p class="fs-5 mt-3 fw-bolder text-dark my-auto mx-auto text-center">Meraas</p>
-										<p class="text-center text-muted my-auto" style="font-size: .8rem">Developer</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-6 px-3">
-								<div class="card shadow mx-0 px-0 " style="height: 140px;">
-									<div class="card-body my-auto">
-										<p class="fs-5  fw-bolder text-dark my-auto mx-auto text-center">Q3 <br> 2027</p>
-										<p class="text-center text-muted my-auto" style="font-size: .8rem">Completion date</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="row my-3 mb-4">
-							<div class="col-6 px-3">
-								<div class="card shadow mx-0 px-0 " style="height: 140px;">
-									<div class="card-body my-auto">
-										<p class="fs-5 fw-bolder mt-3 text-dark my-auto mx-auto text-center">Luxury</p>
-										<p class="text-center text-muted my-auto" style="font-size: .8rem">Lifestyle</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-6 px-3">
-								<div class="card shadow mx-0 px-0 " style="height: 140px;">
-									<div class="card-body my-auto">
-										<p class="fs-5 mt-3 fw-bolder text-dark my-auto mx-auto text-center">Freehold</p>
-										<p class="text-center text-muted my-auto" style="font-size: .8rem">Type</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						
-					</div>
-				</div>
-
-				<div class="row pt-4 mx-0">
-					<h4 style="font-size: 1.8rem;" class="text-uppercase pt-0 rounded-5 mb-1 px-0">
-						<strong>Premium Amenities</strong>
-					</h4>
-					<div class="mx-auto mb-3 px-0">
-						<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
-					</div>
-					<div class="col-md-7 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
-						<div class="bg-image hover-overlay ripple mx-0" data-mdb-ripple-color="light">
-							<p class="text-muted mx-0" style="font-size: .9rem;">
-								With its open-plan apartment layouts, Bluewaters
-								Bay has been designed to let the inside-out and the
-								outside-in, inspiring a lifestyle that&#39;s lived in harmony
-								with the surrounding world – from the bright lights of
-								Bluewaters to the sparkling waters of the Arabian Gulf.
-								Creating a home that combines the calmness and solitude
-								of a seaside location, with the glamour and energy of a
-								bustling destination.
-							</p>
-						</div>
-					</div>
-				</div>
-
-				<div class="row mx-auto text-center mt-4">
-
-					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
-						<img src="images/circle1.webp" class="rounded-circle shadow" width="250px;" height="250px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" style="font-size: 2rem;">Luxury</p>
-						<p class="text-muted mt-0 pt-0">Landscapes</p>
-					</div>
-
-					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
-						<img src="images/circle2.webp" class="rounded-circle shadow" width="250px;" height="250px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" style="font-size: 2rem;">Recreational</p>
-						<p class="text-muted mt-0 pt-0">Centers</p>
-					</div>
-
-					<div class="col-md-4 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
-						<img src="images/circle3.webp" class="rounded-circle shadow" width="250px;" height="250px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-						<p class="font-kanit mt-2 mb-0 pb-0 fw-bold" style="font-size: 2rem;">Infinity</p>
-						<p class="text-muted mt-0 pt-0">Pool</p>
-					</div>
-				</div>
-			</section>
-
-
-
-			<!-- Prices Desktop -->
-			<section id="about-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 ">
-				
-				
-				<div class=" container row mx-auto pt-5 my-auto">
-					<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
-						<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
-							<img src="images/circle4.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(50%);"/>
-
-							<a href="#!">
-								<div class="mask" style="background-color: rgba(0, 0, 0, 0.5);"></div>
-							</a>
-
-						</div>
-					</div>
-
-					<div class="col-md-6 gx-5 mb-4 text-white" style="z-index: 2; margin-top: 60px;">
-						<div class="row" >
-							<div class="col-6 m-0 p-0 w-0">
-								<h4 style="font-size: 3rem; margin-left: -450px;  width: 600px; text-align: right !important; line-height: 1.3" class="text-uppercase pt-5  p-4 rounded-5 text-right">
-									<strong>A combination that is unique and embodied perfectly</strong>
-								</h4>
-							</div>
-							<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
-								<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
-									by MERAAS in Bluewaters Bay
-								</p>
-								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
-								<p class="text-muted" style="font-size: 1.1rem; width: 600px">
-								Located in the bay between Bluewaters Island and The Beach
-								at JBR, residents will have the luxury of direct access to both
-								destinations through the promenade. Whether you would like
-								to have a relaxing day on the beach or dinner at an award-winning
-								restaurant, the options are endless
+					<div class="row ">
+						<div class="col-md-6 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+							<div class="bg-image hover-overlay ripple mx-0" data-mdb-ripple-color="light">
+								<p class="text-muted mx-0" style="font-size: 1rem; width: 600px; text-align: justify">
+									Tilal Al Ghaf is Majid Al Futtaim’s flagship mixed-use community in Dubai, 
+									offering luxury resort-like living around Lagoon Al Ghaf, a recreational lagoon with sandy white beaches.
+									Spanning over 3 million square metres, the community will provide walkable neighbourhoods 
+									featuring high-quality villas, townhouses and apartments. 
+									These are connected by pathways, natural, open spaces and parks, complemented 
+									by vibrant retail, dining, leisure and cultural options.
 								</p>
 							</div>
 						</div>
-						
-						
 
-						
-						<a href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-							<i class="fa fa-arrow-right"></i>
-							request units and prices	
-						</a>
-						
-
-					</div>
-				</div>
-			</section>
-
-
-			<!-- Prices mobile -->
-			<section id="about-mobile" class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
-				<div class="row py-5">
-					<div class="col-md-6 gx-5 mb-4">
-
-						<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
-							<h4 style="font-size: 2.3rem; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 50px;" class="text-uppercase text-white pt-5 mt-5">
-								<strong>A combination that is unique and embodied perfectly by Bluewaters Bay</strong>
-							</h4>
-							<img src="images/circle4.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
-							<a href="#">
-								<div class="mask" style="background-color: rgba(0, 0, 0, 0.3);"></div>
-							</a>
-						</div>
-					</div>
-
-					<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 50px;">
-						<!-- <h4 style="font-size: 3rem;" class="text-uppercase pt-5"><strong>The tallest residential tower in the world</strong></h4> -->
-						
-						<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
-						<p class="text-muted" style="font-size: 1.2rem;">
-							Located in the bay between Bluewaters Island and The Beach
-								at JBR, residents will have the luxury of direct access to both
-								destinations through the promenade. Whether you would like
-								to have a relaxing day on the beach or dinner at an award-winning
-								restaurant, the options are endless
-						</p>
-
-						<a href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-							<i class="fa fa-arrow-right"></i>
-							request units and prices	
-						</a>
-
-					</div>
-				</div>
-			</section>
-
-
-
-
-			<!-- Image gallery -->
-			<section id="amenities-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
-
-				
-				<div class="row pt-4 mx-0">
-					<h4 style="font-size: 3rem;" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
-						<strong>Luxury Lifestyle</strong>
-					</h4>
-					<div class="mx-auto px-0">
-						<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
-					</div>
-					<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
-						
-					</p>
-				</div>	
-
-					
-				<div class="row mx-auto text-center mt-4">
-
-					<div class="col-md-6 gx-5 mb-4 pt-0 px-2 text-right mx-auto" style="z-index: 1; height: 300px;">
-						<a href="images/resize/1.webp" data-lightbox="image-1" data-title="My caption">
-							<img src="images/resize/1.webp" class="img-fluid" height="300px" style="z-index: -5; text-align: center;  background-position: center;  display: flex; max-width: 100%; max-height: 100%;"/>
-						</a>
-					</div>
-
-					<div class="col-md-6 gx-5 mb-4 pt-0 px-2 text-right mx-auto" style="z-index: 1;  height: 300px;">
-						<a href="images/resize/2.webp" data-lightbox="image-1" data-title="My caption">
-							<img src="images/resize/2.webp" class="img-fluid" height="300px" style="z-index: -5; text-align: center;  background-position: center; display: flex; max-width: 100%; max-height: 100%;"/>
-					</div>
-				</div>
-
-				<div class="row mx-auto text-center mt-4">
-
-					<div class="col-md-6 gx-5 mb-4 pt-0 px-2 text-right mx-auto" style="z-index: 1; height: 300px;">
-						<a href="images/resize/5.webp" data-lightbox="image-1" data-title="My caption">
-							<img src="images/resize/5.webp" class="img-fluid" height="300px" style="z-index: -5; text-align: center;  background-position: center;  display: flex; max-width: 100%; max-height: 100%;"/>
-						</a>
-						
-					</div>
-
-					<div class="col-md-6 gx-5 mb-4 pt-0 px-2 text-right mx-auto" style="z-index: 1;  height: 300px;">
-						<a href="images/resize/6.webp" data-lightbox="image-1" data-title="My caption">
-							<img src="images/resize/6.webp" class="img-fluid" height="300px" style="z-index: -5; text-align: center;  background-position: center; display: flex; max-width: 100%; max-height: 100%;"/>
-						</a>
-						
-					</div>
-				</div>
-
-				<div class="row mx-auto text-center mt-4">
-
-					<div class="col-md-6 gx-5 mb-4 pt-0 px-2 text-right mx-auto" style="z-index: 1; height: 300px;">
-						<a href="images/resize/8.webp" data-lightbox="image-1" data-title="My caption">
-							<img src="images/resize/8.webp" class="img-fluid" height="300px" style="z-index: -5; text-align: center;  background-position: center;  display: flex; max-width: 100%; max-height: 100%;"/>
-						</a>
-						
-					</div>
-
-					<div class="col-md-6 gx-5 mb-4 pt-0 px-2 text-right mx-auto" style="z-index: 1;  height: 300px;">
-						<a href="images/resize/3.webp" data-lightbox="image-1" data-title="My caption">
-							<img src="images/resize/3.webp" class="img-fluid" height="300px" style="z-index: -5; text-align: center;  background-position: center; display: flex; max-width: 100%; max-height: 100%;"/>
-						</a>
-						
-					</div>
-				</div>
-			</section>
-
-
-			<!-- amenities`Desktop -->
-			<!-- <section id="" class="container d-md-block d-lg-block d-none px-5 pt-3 pb-3">
-				
-				<div class="row pt-5">
-					<div class="col-md-7 gx-5 mb-4 text-right" style="z-index: 1">
-						<div id="carouselExampleSlidesOnly" class="carousel slide " data-mdb-ride="carousel">
-							<div class="carousel-inner">
-								<div class="carousel-item active " data-mdb-interval="1500">
-								<img src="images/1.webp" class="d-block w-100 rounded-5" alt="Wild Landscape"/>
-								</div>
-								<div class="carousel-item" data-mdb-interval="1500">
-								<img src="images/3.webp" class="d-block w-100 rounded-5" alt="Camera"/>
-								</div>
-								<div class="carousel-item" data-mdb-interval="1500">
-								<img src="images/2.webp" class="d-block w-100 rounded-5" alt="Exotic Fruits"/>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-5 gx-5 mb-4 border" style="z-index: 2;">
-						<h4 style="font-size: 2.5rem; " class="text-uppercase pt-4  rounded-5 mb-1">
-							<strong>Amenities & Features</strong>
-						</h4>
-						<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
-						
-						<div class="row mt-4">
-							<div class="col-3 mx-3 text-center mx-auto">
-								<img src="images/amenities-icon/infinity-edge-swimming-pool.png" height="75px;" class="mx-auto"/>
-								<span class="" style="font-size: .8rem;">Swimming Pool</span>
-							</div>
-							<div class="col-3 mx-auto text-center">
-								<img src="images/amenities-icon/park.png" height="75px;" class="mx-auto"/>
-								<span class="" style="font-size: .8rem;">Covered Park</span>
-
-							</div>
-							<div class="col-3 mx-auto text-center">
-								<img src="images/amenities-icon/kids play area.png" height="75px;" class="mx-auto"/>
-								<span class="" style="font-size: .8rem;">Kids Play Area</span>
-
-							</div>
-						</div>
-
-						<div class="row mt-4">
-							<div class="col-3 mx-auto text-center">
-								<img src="images/amenities-icon/fitness centre.png" height="75px;" class="mx-auto"/>
-								<span class="" style="font-size: .8rem;">Gymnasium</span>
-
-							</div>
-							<div class="col-3 mx-auto text-center">
-								<img src="images/amenities-icon/cafes.png" height="75px;" class="mx-auto"/>
-								<span class="" style="font-size: .8rem;">Recreational</span>
-
-							</div>
-							<div class="col-3 mx-auto text-center">
-								<img src="images/amenities-icon/5starhotel.png" height="75px;" class="mx-auto"/>
-								<span class="mx-auto" style="font-size: .8rem;">high Rise</span>
-
-							</div>
-						</div>
-
-					</div>
-				</div>
-			</section> -->
-
-			<section  class="d-md-block d-block d-lg-none px-3 pt-5 pb-3 ">
-				<h2 class="text-right fw-bolder text-left" style="font-family: TildaSans; font-size: 2.5rem; line-height: 1.5">
-					Luxury Lifestyle
-				</h2>
-				<div class="mx-auto px-0">
-					<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
-				</div>
-			</section>
-
-			<!-- amenities` Mobile -->
-			<section  class="d-md-block d-block d-lg-none px-0 pt-3 ">
-				<div id="carouselExampleCaptions" class="carousel slide" data-mdb-ride="carousel">
-				<div class="carousel-indicators">
-					<button
-					type="button"
-					data-mdb-target="#carouselExampleCaptions"
-					data-mdb-slide-to="0"
-					class="active"
-					aria-current="true"
-					aria-label="Slide 1"
-					></button>
-					<button
-					type="button"
-					data-mdb-target="#carouselExampleCaptions"
-					data-mdb-slide-to="1"
-					aria-label="Slide 2"
-					></button>
-					<button
-					type="button"
-					data-mdb-target="#carouselExampleCaptions"
-					data-mdb-slide-to="2"
-					aria-label="Slide 3"
-					></button>
-					<button
-					type="button"
-					data-mdb-target="#carouselExampleCaptions"
-					data-mdb-slide-to="3"
-					aria-label="Slide 4"
-					></button>
-					<button
-					type="button"
-					data-mdb-target="#carouselExampleCaptions"
-					data-mdb-slide-to="4"
-					aria-label="Slide 5"
-					></button>
-					<button
-					type="button"
-					data-mdb-target="#carouselExampleCaptions"
-					data-mdb-slide-to="5"
-					aria-label="Slide 6"
-					></button>
-					<button
-					type="button"
-					data-mdb-target="#carouselExampleCaptions"
-					data-mdb-slide-to="5"
-					aria-label="Slide 6"
-					></button>
-				</div>
-				<div class="carousel-inner">
-					<div class="carousel-item active">
-					<img src="images/resize/8.webp" class="d-block w-100" alt="bluewaters-bay"/>
-					
-					</div>
-					<div class="carousel-item">
-						<img src="images/resize/5.webp" class="d-block w-100" alt="bluewaters-bay"/>
-					</div>
-					<div class="carousel-item">
-						<img src="images/resize/7.webp" class="d-block w-100" alt="bluewaters-bay"/>
-					</div>
-					<div class="carousel-item">
-						<img src="images/resize/2.webp" class="d-block w-100" alt="bluewaters-bay"/>
-					</div>
-					<div class="carousel-item">
-					<img src="images/resize/3.webp" class="d-block w-100" alt="bluewaters-bay"/>
-					
-					</div>
-					<div class="carousel-item">
-					<img src="images/resize/4.webp" class="d-block w-100" alt="bluewaters-bay"/>
-					</div>
-				</div>
-				<button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleCaptions" data-mdb-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="visually-hidden">Previous</span>
-				</button>
-				<button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleCaptions" data-mdb-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="visually-hidden">Next</span>
-				</button>
-			</div>
-			</section>
-
-			
-			
-			<!-- mobile amenities -->
-			<section class="d-md-block d-block d-lg-none py-5">				
-				<div class="row">					
-					
-					<div class="row pt-4">
-						<div class="col-3 mx-3 text-center mx-auto">
-							<img src="images/amenities-icon/infinity-edge-swimming-pool.png" height="55px;" class="mx-auto"/>
-							<span class="" style="font-size: .8rem;">Swimming Pool</span>
-						</div>
-						<div class="col-3 mx-auto text-center">
-							<img src="images/amenities-icon/park.png" height="55px;" class="mx-auto"/>
-							<span class="" style="font-size: .8rem;">Covered Park</span>
-
-						</div>
-						<div class="col-3 mx-auto text-center">
-							<img src="images/amenities-icon/kids play area.png" height="55px;" class="mx-auto"/>
-							<span class="" style="font-size: .8rem;">Kids Play Area</span>
-
-						</div>
-					</div>
-
-					<div class="row mt-4">
-						<div class="col-3 mx-auto text-center">
-							<img src="images/amenities-icon/fitness centre.png" height="55px;" class="mx-auto"/>
-							<span class="" style="font-size: .8rem;">Gymnasium</span>
-
-						</div>
-						<div class="col-3 mx-auto text-center">
-							<img src="images/amenities-icon/cafes.png" height="55px;" class="mx-auto"/>
-							<span class="" style="font-size: .8rem;">Recreational</span>
-
-						</div>
-						<div class="col-3 mx-auto text-center">
-							<img src="images/amenities-icon/5starhotel.png" height="55px;" class="mx-auto"/>
-							<span class="mx-auto" style="font-size: .8rem;">High Rise</span>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<!-- the lifestyle -->
-			<section id="lifestyle-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 ">
-				
-				
-				<div class=" container row mx-auto pt-5 my-auto">
-					<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
-						<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
-							<img src="images/square/004.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(90%);"/>
-
-							<a href="#!">
-								<div class="mask" style="background-color: rgba(0, 0, 0, 0.5);"></div>
-							</a>
-
-						</div>
-					</div>
-
-					<div class="col-md-6 gx-5 mb-4 text-white" style="z-index: 2; margin-top: 60px;">
-						<div class="row" >
-							<div class="col-6 m-0 p-0 w-0">
-								<h4 style="font-size: 3rem; margin-left: -450px;  width: 600px; text-align: right !important; line-height: 1.3" class="text-uppercase pt-5  p-4 rounded-5 text-right">
-									<strong>GENEROUS AND WELCOMING EXPERIENCE</strong>
-								</h4>
-							</div>
-							<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
-								<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
-									Lush Lifestyle
-								</p>
-								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
-								<p class="text-muted" style="font-size: 1.1rem; width: 600px">
-									Properties at Bluewaters bay are ranging from 1, 2, 3, and 4-bedroom waterfront apartments with elevated community gardens and promenade walkway
-									leading to Ain Dubai and the beach at JBR. <br><br>
-									Spacious open areas and outdoor seating surrounded by awe-inspiring views of the sea and skyline. <br><br>
-									The layout of the 3 and 4-bedroom residences in Bluewaters Bay includes a maid's room with an en-suite bathroom and two balconies
-								</p>
-							</div>
-						</div>
-						
-						
-
-						
-						<a href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-							<i class="fa fa-arrow-right"></i>
-							Download brochure
-						</a>
-						
-
-					</div>
-				</div>
-			</section>
-
-
-			<!-- The lifestyle -->
-			<section id="lifestyle-mobile" class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
-				<div class="row py-5">
-					<div class="col-md-6 gx-5 mb-4">
-
-						<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
-							<h4 style="font-size: 2.3rem; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 50px;" class="text-uppercase text-white pt-5 mt-5">
-								<strong>GENEROUS AND WELCOMING EXPERIENCE</strong>
-							</h4>
-							<img src="images/square/004.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
+						<div class="col-md-6 gx-5 mb-4 pt-0 ps-3 mx-0" style="z-index: 2;">
 							
+							<p class="text-muted" style="font-size: 1rem; width: 600px;  text-align: justify">
+								Live life on your own terms with customizable living options. A choice of contemporary facades, 
+								functional interior layouts and exclusive Sky Suite options offer the personalization every home needs.
+
+								An outstanding collection of spacious 3 and 4 bedroom townhouses crafted to deliver a unique living experience. 
+							</p>
 						</div>
 					</div>
+				</div>
 
-					<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 0px;">
-						<h4 style="font-size: 1.5rem;" class="text-uppercase pt-1"><strong>Lush Lifestyle</strong></h4>
-						
-						<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
-						<p class="text-muted" style="font-size: 1.2rem;">
-							Properties at Bluewaters bay are ranging from 1, 2, 3, and 4-bedroom waterfront apartments with elevated community gardens and promenade walkway
-							leading to Ain Dubai and the beach at JBR. <br><br>
-							Spacious open areas and outdoor seating surrounded by awe-inspiring views of the sea and skyline. <br><br>
-							The layout of the 3 and 4-bedroom residences in Bluewaters Bay includes a maid's room with an en-suite bathroom and two balconies
+
+				<!-- VILLA DESCRIPTION -->
+				<div class="row pt-4 mx-0" id="villas" style="display: none;">
+					<div class="row">
+						<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+							STANDALONE VILLAS - HARMONY & ALAYA
 						</p>
+					</div>
+					<div class="row">
+						<div class="col-md-6 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+							<div class="bg-image hover-overlay ripple mx-0" data-mdb-ripple-color="light">
+								<p class="text-muted mx-0" style="font-size: 1rem; width: 600px; text-align: justify">
+									Nestled in the heart of new Dubai, with a stunning lagoon and white sandy 
+									beaches at its heart, Tilal Al Ghaf balances luxury resort-style living 
+									with a fresh urban feeling. With its exceptional amenities, unique sense 
+									of design and unparalleled attention to detail, every home in 
+									Tilal Al Ghaf is created with you in mind. 
+									
+								</p>
+							</div>
+						</div>
 
-						<a href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-							<i class="fa fa-arrow-right"></i>
-							Download Brochure
-						</a>
-
+						<div class="col-md-6 gx-5 mb-4 pt-0 ps-3 mx-0" style="z-index: 2;">
+							
+							<p class="text-muted" style="font-size: 1rem; width: 600px;  text-align: justify">
+								Immerse yourself in a lifestyle filled with beauty and serene 
+								tranquillity at Alaya. Awaken your senses and uplift the mind, 
+								body and soul. This refined collection of Grand Villas is exquisitely crafted to encapsulate 
+								the essence of inspired living at its finest.
+							</p>
+						</div>
 					</div>
 				</div>
+
+
+				<!-- MANSION DESCRIPTION -->
+				<div class="row pt-4 mx-0" id="mansions" style="display: none;">
+					<div class="row">
+						<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+							MANSIONS - ELYSIAN & LANAI
+						</p>
+					</div>
+					<div class="row">
+						<div class="col-md-6 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+							<div class="bg-image hover-overlay ripple mx-0" data-mdb-ripple-color="light">
+								<p class="text-muted mx-0" style="font-size: 1rem; width: 600px; text-align: justify">
+									Live in the lap of luxury with the luxury of freedom.
+									Lanai Islands offer the idyllic lifestyle that only a private resort-style 
+									retreat in the heart of nature can offer, yet remains within easy reach of Dubai’s primary business and entertainment hubs.
+									Lanai Islands is the latest residential development within the community Tilal Al Ghaf, 
+									and is the epitome of its resort living lifestyle. It is opulent, bespoke, unassailable. It is signature living by Majid Al Futtaim.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-md-6 gx-5 mb-4 pt-0 ps-3 mx-0" style="z-index: 2;">
+							
+							<p class="text-muted" style="font-size: 1rem; width: 600px;  text-align: justify">
+								Award-winning architectural firm SAOTA is driven by a unique design philosophy 
+								that connects form and function and blurs the boundaries between indoors and out. 
+								SAOTA’s innovative residential designs are distinguished not only for their incredible 
+								aesthetic impact, but for being homes in which people love to live in.
+							</p>
+						</div>
+					</div>
+				</div>				
 			</section>
+			<!-- ABOUT DESKTOP -->
 
 
+			<!-- SLIDERS DESKTOP VIEW -->
+				<section id="about-desk-slider" class="container-fluid d-md-block d-lg-block d-none px-5">
+
+					<!-- TOWNHOUSE slider -->
+						<div class="row" id="townhouses-slider" style="display: block">
+							<div class="col-md-12 px-0">
+								<div class="owl-one owl-carousel owl-theme px-0">
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="townhouses" href="images/townhouses/img96.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img96.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="townhouses" href="images/townhouses/img371.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img371.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>								
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="townhouses" href="images/townhouses/img374.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img374.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="townhouses" href="images/townhouses/img99.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img99.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="townhouses" href="images/townhouses/img62.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img86.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="townhouses" href="images/townhouses/img43.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img69.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="townhouses" href="images/townhouses/img56.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img73.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									
+
+									
+
+								</div>
+							</div>
+						</div>
+					<!-- TOWNHOUSE slider -->
+
+
+					<!-- VILlA slider -->
+						<div class="row" id="villas-slider" style="display: none">
+							<div class="col-md-12 px-0">
+								<div class="owl-one owl-carousel owl-theme px-0">
+									
+									<div class="mx-2 item"> 
+										<a data-fslightbox="villas" href="images/villas/alaya3.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/alaya3.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="villas" href="images/villas/img398.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img398.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="villas" href="images/villas/img387.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img387.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="villas" href="images/villas/img408.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img408.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="villas" href="images/villas/img511.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img511.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="villas" href="images/villas/img226.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img226.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="villas" href="images/villas/img146.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img146.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="villas" href="images/villas/img625.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img625.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+								</div>
+							</div>
+						</div>
+					<!-- VILLA slider -->
+
+
+					<!-- MANSIONS slider -->
+						<div class="row" id="mansions-slider" style="display: none">
+							<div class="col-md-12 px-0">
+								<div class="owl-one owl-carousel owl-theme px-0">
+									
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mansions" href="images/mansions/img264.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img264.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mansions" href="images/mansions/img177.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img177.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mansions" href="images/mansions/img343.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img343.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mansions" href="images/mansions/img27.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img27.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mansions" href="images/mansions/img743.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img743.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mansions" href="images/mansions/img739.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img739.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mansions" href="images/mansions/img751.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img751.webp" alt="Image" style="height: 330px; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									
+
+								</div>
+							</div>
+						</div>
+					<!-- MANSIONS slider -->
+
+				</section>
+			<!-- SLIDERS DESKTOP VIEW -->
+
+
+
+			<!-- ABOUT MOBILE -->
+				<section id="about-mobile" class="d-md-block d-block d-lg-none px-4 py-3">
+
+					<div class="row pt-2" >
+						<div class="col-4 gx-5 mb-2 pt-0 px-0 text-right mx-0" style="z-index: 1; ">
+							<!-- <div class="card mx-0 px-0 my-auto shadow-sm" style="height: 100px !important;"> -->
+								<button class="shadow-none rounded-0 mx-0 px-0 my-auto btn w-100 customButton01 customButtonTransform " onclick="swapTownhouse()">
+									<p class=" fw-bold my-2 py-0 font-kanit" style="font-size: 1rem; line-height: 1;" >
+										Townhouses
+									</p>
+									<!-- <hr class="my-0 border border-2 border-warning mx-auto townhouseActive" id="townhouseActive" style="width: 100px; background-color: #f4a055;	 display: block"> -->
+								</button>
+							<!-- </div> -->
+						</div>
+						<div class="col-4 gx-5 mb-2 pt-0 px-0 text-right mx-0" style="z-index: 1; ">
+							<!-- <div class="card mx-0 px-0 my-auto shadow-sm" style="height: 100px !important;"> -->
+								<button class="shadow-none rounded-0 mx-0 px-0 my-auto btn w-100 customButton02 bg-option1" onclick="swapVillas()">
+									<p class=" fw-bold my-2 py-0 font-kanit" style="font-size: 1rem; line-height: 1; margin-top: 50px;">
+										Villas
+									</p>	
+									<!-- <hr class="my-0 border border-2 border-warning mx-auto villaActive" id="villaActive" style="width: 100px; background-color: #f4a055;	 display: none"> -->
+								</button>
+							<!-- </div> -->
+						</div>
+						<div class="col-4 gx-5 mb-2 pt-0 px-0 text-right mx-0" style="z-index: 1; ">
+							<!-- <div class="card mx-0 px-0 my-auto shadow-sm" style="height: 100px !important; "> -->
+								<button class="shadow-none rounded-0 mx-0 px-0 my-auto btn w-100 customButton03 bg-option2" onclick="swapMansions()">
+									<p class=" fw-bold my-2 py-0 font-kanit" style="font-size: 1rem; line-height: 1; margin-top: 50px;">
+										Mansions
+									</p>	
+									<!-- <hr class="my-0 border border-2 border-warning mx-auto mansionActive" id="mansionActive" style="width: 100px; background-color: #f4a055;	 display: none"> -->
+								</button>
+							<!-- </div> -->
+						</div>
+					</div>
+					
+					<!-- TOWNHOUSE DESCRIPTION -->
+					<div class="row pt-2 mx-0" id="mobile_townhouses" style="display: block;">
+						<div class="row">
+							<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+								<span class="fw-bold">TOWNHOUSES</span> <br>ELAN & AURA GARDENS
+							</p>
+						</div>
+						<div class="row mx-0 px-0">
+							<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple mx-0" data-mdb-ripple-color="light">
+									<p class="text-muted mx-0" style="font-size: 1rem; text-align: justify">
+										Tilal Al Ghaf is Majid Al Futtaim’s flagship mixed-use community in Dubai, 
+										offering luxury resort-like living around Lagoon Al Ghaf, a recreational lagoon with sandy white beaches.
+										Spanning over 3 million square metres, the community will provide walkable neighbourhoods 
+										featuring high-quality villas, townhouses and apartments. 
+										These are connected by pathways, natural, open spaces and parks, complemented 
+										by vibrant retail, dining, leisure and cultural options.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+					<!-- VILLA DESCRIPTION -->
+					<div class="row pt-2 mx-0" id="mobile_villas" style="display: none;">
+						<div class="row">
+							<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+								<span class="fw-bold">STANDALONE VILLAS</span> <br>HARMONY & ALAYA
+							</p>
+						</div>
+						<div class="row mx-0 px-0">
+							<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple mx-0" data-mdb-ripple-color="light">
+									<p class="text-muted mx-0" style="font-size: 1rem; text-align: justify">
+										Nestled in the heart of new Dubai, with a stunning lagoon and white sandy 
+										beaches at its heart, Tilal Al Ghaf balances luxury resort-style living 
+										with a fresh urban feeling. With its exceptional amenities, unique sense 
+										of design and unparalleled attention to detail, every home in 
+										Tilal Al Ghaf is created with you in mind. 
+										
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+					<!-- MANSION DESCRIPTION -->
+					<div class="row pt-2 mx-0" id="mobile_mansions" style="display: none;">
+						<div class="row">
+							<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+								<span class="fw-bold">MANSIONS</span> <br>ELYSIAN & LANAI
+							</p>
+						</div>
+						<div class="row mx-0 px-0">
+							<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple mx-0" data-mdb-ripple-color="light">
+									<p class="text-muted mx-0" style="font-size: 1rem; width: 600px; text-align: justify">
+										Live in the lap of luxury with the luxury of freedom.
+										Lanai Islands offer the idyllic lifestyle that only a private resort-style 
+										retreat in the heart of nature can offer, yet remains within easy reach of Dubai’s primary business and entertainment hubs.
+										Lanai Islands is the latest residential development within the community Tilal Al Ghaf, 
+										and is the epitome of its resort living lifestyle. It is opulent, bespoke, unassailable. It is signature living by Majid Al Futtaim.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>	
+				</section>
+			<!-- ABOUT MOBILE -->
+
+
+			<!-- SLIDERS MOBILE VIEW -->
+				<section id="about-mobile-slider" class="container-fluid d-md-block d-block d-lg-none px-0">
+
+					<!-- TOWNHOUSE slider -->
+						<div class="row" id="mobile_townhouses-slider" style="display: block">
+							<div class="col-md-12 px-0">
+								<div class="mobile-owl-one owl-carousel owl-theme px-0">
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_townhouses" href="images/townhouses/img96.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img96.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_townhouses" href="images/townhouses/img371.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img371.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>								
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_townhouses" href="images/townhouses/img374.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img374.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_townhouses" href="images/townhouses/img340.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img340.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_townhouses" href="images/townhouses/img86.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img86.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_townhouses" href="images/townhouses/img69.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img69.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_townhouses" href="images/townhouses/img73.webp">
+											<img  alt="tilal al ghaf"  src="images/townhouses/img73.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									
+
+									
+
+								</div>
+							</div>
+						</div>
+					<!-- TOWNHOUSE slider -->
+
+
+					<!-- VILlA slider -->
+						<div class="row" id="mobile_villas-slider" style="display: none">
+							<div class="col-md-12 px-0">
+								<div class="mobile-owl-one owl-carousel owl-theme px-0">
+									
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_villas" href="images/villas/alaya3.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/alaya3.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_villas" href="images/villas/img398.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img398.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_villas" href="images/villas/img387.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img387.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_villas" href="images/villas/img408.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img408.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_villas" href="images/villas/img511.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img511.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_villas" href="images/villas/img226.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img226.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_villas" href="images/villas/img146.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img146.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_villas" href="images/villas/img625.webp">
+											<img  alt="tilal al ghaf"  src="images/villas/img625.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+								</div>
+							</div>
+						</div>
+					<!-- VILLA slider -->
+
+
+					<!-- MANSIONS slider -->
+						<div class="row" id="mobile_mansions-slider" style="display: none">
+							<div class="col-md-12 px-0">
+								<div class="mobile-owl-one owl-carousel owl-theme px-0">
+									
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_mansions" href="images/mansions/img264.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img264.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_mansions" href="images/mansions/img177.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img177.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_mansions" href="images/mansions/img343.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img343.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_mansions" href="images/mansions/img27.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img27.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_mansions" href="images/mansions/img743.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img743.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_mansions" href="images/mansions/img739.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img739.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+
+									<div class="mx-2 item"> 
+										<a data-fslightbox="mobile_mansions" href="images/mansions/img751.webp">
+											<img  alt="tilal al ghaf"  src="images/mansions/img751.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+										</a>	
+									</div>
+								</div>
+							</div>
+						</div>
+					<!-- MANSIONS slider -->
+
+				</section>
+			<!-- SLIDERS MOBILE VIEW -->
+
+
+			<!-- TOWNHOUSE - ELAN -DESKTOP -->
+				<div class="section_townhouse">
+					<section id="prices-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 mt-5">
 			
-			<!-- floor plan -->
-			<section id="floors-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
+						<div class=" container row mx-auto pt-5 my-auto">
+							<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
+									<img  alt="tilal al ghaf"  src="images/townhouses/img90-square.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(50%);" alt="elan-square"/>
+								</div>
+							</div>
+
+							<div class="col-md-6 gx-5 mb-4 text-white" style="z-index: 2; margin-top: 60px;">
+								<div class="row" >
+									<div class="col-6 m-0 p-0 w-0">
+										<h4 style="font-size: 3rem; margin-left: -450px;  width: 600px; text-align: right !important; line-height: 1.3" class="text-uppercase pt-5  p-4 rounded-5 text-right">
+											<strong>
+												ELAN TOWNHOUSES 
+											</strong>
+											<br> PHASE 03
+										</h4>
+									</div>
+
+									<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
+										<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
+											
+											BE AT THE CENTRE OF IT ALL
+										</p>
+										<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+										<p class="text-muted" style="font-size: 1.1rem; width: 600px">
+										Elan offers the perfect lifestyle for the modern family. With high-quality 
+										three and four bedroom duplex townhouses, nature-inspired outdoors and 
+										resort-style amenities including swimming pools, community and fitness centres.
+										Our Eco-Travel plan is designed to help you make sustainable travel choices, reduce our environment 
+										impact and improve our health and wellbeing. That’s why every ELAN townhouse comes 
+										with two complimentary bicycles for the family to promote the benefits of active travel 
+										throughout the neighborhood
+										</p>
+									</div>
+								</div>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+								
+							</div>
+						</div>
+					</section>
+
+					<!-- TOWNHOUSE - ELAN - FLOOR PLANS -->
+					<section id="floors-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
+
+						<div class="row pt-4 mx-0">
+							<h4 style="font-size: 3rem;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+								<strong>ELAN FLOOR PLANS</strong>
+							</h4>
+							<div class="mx-auto px-0">
+								<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+							</div>
+							<!-- <p class="text-right mt-3 mb-0 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+								of ELAN PHASE 03
+							</p>									 -->
+						</div>	
+
+						<!-- ELAN floor plans -->
+							<div id="section_townhouse" style="display:block">
+								<div class="row mt-4 mx-auto">
+									<div class="col-md-3 gx-5 mb-4 pt-0 px-0 ms-0 me-4 text-left " style="z-index: 1" >
+										<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#1_bedroom" onclick="oneBedroom()" class="font-kanit text-muted" style="font-size: 2rem; text-decoration: underline;" id="1_bedd">3 Bedroom Townhouse</a>
+									</div>	
+									<div class="col-md-3 gx-5 mb-4 pt-0 px-0 ms-4 text-left " style="z-index: 1">
+										<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#2_bedroom" onclick="twoBedroom()" class="font-kanit text-muted" style="font-size: 2rem;" id="2_bedd">4 Bedroom Townhouse</a>
+									</div>
+								</div>
+
+								<div class="row mx-auto text-center mt-4">
+									<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: block;" id="oneBedroom">
+										<div class="row">
+											<div class="col-3">								
+												<a data-fslightbox="FP-D-T-3B" href="images/townhouses/ELAN/3-bed-1.webp">
+													<img  alt="tilal al ghaf"  src="images/townhouses/ELAN/3-bed-1.webp" class="shadow" width="230px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>								
+											</div>
+											<div class="col-3">
+												<a data-fslightbox="FP-D-T-3B" href="images/townhouses/ELAN/3-bed-2.webp">
+													<img  alt="tilal al ghaf"  src="images/townhouses/ELAN/3-bed-2.webp" class="shadow" width="230px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>
+											</div>
+											<div class="col-6 my-auto">
+												<small style="font-size: 1.5rem;">
+													200 sq. m. &nbsp; | &nbsp; 2,152 sq. ft.
+												</small>
+												<p class="font-kanit fw-bold" style="font-size: 3.5rem;">3 Bedroom Townhouse</p>
+												<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+													Download Floor Plans	
+												</button><br>
+												<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+											</div>
+										</div>
+									</div>
 
 
-				<div class="row pt-4 mx-0">
-					<h4 style="font-size: 3rem;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
-						<strong>Explore Floor Plans</strong>
-					</h4>
-					<div class="mx-auto px-0">
-						<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
-					</div>
-					<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
-						of Bluewaters Bay
-					</p>
-					<div class="col-md-3 gx-5 mb-4 pt-0 px-0 mx-0 text-left" style="z-index: 1" >
-						<a href="#1_bedroom" onclick="oneBedroom()" class="font-kanit text-muted" style="font-size: 2.5rem; text-decoration: underline;" id="1_bedd">1 Bedroom</a>
-					</div>	
-					<div class="col-md-3 gx-5 mb-4 pt-0 px-0 mx-0 text-left" style="z-index: 1">
-						<a href="#2_bedroom" onclick="twoBedroom()" class="font-kanit text-muted" style="font-size: 2.5rem;" id="2_bedd">2 Bedroom</a>
-					</div>	
-					<div class="col-md-3 gx-5 mb-4 pt-0 px-0 mx-0 text-left" style="z-index: 1">
-						<a href="#3_bedroom" onclick="threeBedroom()" class="font-kanit text-muted" style="font-size: 2.5rem;" id="3_bedd">3 Bedroom</a>
-					</div>	
-					<div class="col-md-3 gx-5 mb-4 pt-0 px-0 mx-0 text-left" style="z-index: 1">
-						<a href="#4_bedroom" onclick="fourBedroom()" class="font-kanit text-muted" style="font-size: 2.5rem;" id="4_bedd">4 Bedroom</a>
-					</div>					
+									<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="twoBedroom">
+										<div class="row">
+											<div class="col-3">								
+												<a data-fslightbox="FP-D-T-4B" href="images/townhouses/ELAN/4-bed-1.webp">
+													<img  alt="tilal al ghaf"  src="images/townhouses/ELAN/4-bed-1.webp" class="shadow" width="230px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>								
+											</div>
+											<div class="col-3">
+												<a data-fslightbox="FP-D-T-4B" href="images/townhouses/ELAN/4-bed-2.webp">
+													<img  alt="tilal al ghaf"  src="images/townhouses/ELAN/4-bed-2.webp" class="shadow" width="230px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>
+											</div>
+											<div class="col-6 my-auto">
+												<small style="font-size: 1.5rem;">
+													219 sq. m. &nbsp; | &nbsp; 2,534 sq. ft.
+												</small>
+												<p class="font-kanit fw-bold" style="font-size: 3.5rem;">4 Bedroom Townhouse</p>
+												<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+													Download Floor Plans
+												</button><br>
+												<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						<!-- ELAN floor plans -->
+					</section>
 				</div>
+			<!-- TOWNHOUSE - ELAN -DESKTOP -->
 
-				<div class="row mx-auto text-center mt-4">
 
-					<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: block;" id="oneBedroom">
-						<div class="row">
-							<div class="col-6">
-								<img src="images/floor-plan/1.webp" class="shadow" width="400px;" height="400px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+			<!-- TOWNHOUSE - ELAN - MOBILE-->
+				<div class="section_townhouse">
+					<section  class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
+						<div class="row py-5">
+							<div class="col-md-6 gx-5 mb-4">
+
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
+									<h4 style="font-size: 2em; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 150px;" class="text-uppercase text-white pt-5 mt-5">
+										<strong>
+											BE AT THE CENTRE OF IT ALL
+										</strong>
+									</h4>
+									
+									<img  alt="tilal al ghaf"  src="images/townhouses/img90-square.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
+									
+								</div>
+								
 							</div>
-							<div class="col-6 my-auto">
-								<p class="font-kanit fw-bold" style="font-size: 3.5rem;">1 Bedroom</p>
-								<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-									Download Floor Plans	
-								</button><br>
-								<a href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
-							</div>
-						</div>
-					</div>
 
+							<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 0px;">
+								<h4 style="font-size: 2.5em;" class="text-uppercase pt-0"><strong>
+									ELAN TOWNHOUSES
+								</strong></h4>
+								
+								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+								<p class="text-muted " style="font-size: 1em; text-align: justify; line-height: 1.6">
+									Elan offers the perfect lifestyle for the modern family. With high-quality 
+											three and four bedroom duplex townhouses, nature-inspired outdoors and 
+											resort-style amenities including swimming pools, community and fitness centres.
+											Our Eco-Travel plan is designed to help you make sustainable travel choices, reduce our environment 
+											impact and improve our health and wellbeing. That’s why every ELAN townhouse comes 
+											with two complimentary bicycles for the family to promote the benefits of active travel 
+											throughout the neighborhood
+								</p>
 
-					<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="twoBedroom">
-						<div class="row">
-							<div class="col-6">
-								<img src="images/floor-plan/2.webp" class="shadow" width="400px;" height="400px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-							</div>
-							<div class="col-6 my-auto">
-								<p class="font-kanit fw-bold" style="font-size: 3.5rem;">2 Bedroom</p>
-								<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-									Download Floor Plans
-								</button><br>
-								<a href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
-							</div>
-						</div>
-					</div>
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
 
-
-					<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="threeBedroom">
-						<div class="row">
-							<div class="col-6">
-								<img src="images/floor-plan/3.webp" class="shadow" width="400px;" height="400px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-							</div>
-							<div class="col-6 my-auto">
-								<p class="font-kanit fw-bold" style="font-size: 3.5rem;">3 Bedroom</p>
-								<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-									Download Floor Plans
-								</button><br>
-								<a href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
 							</div>
 						</div>
-					</div>
+					</section>
+
+					<!-- TOWNHOUSE - ELAN - FLOOR PLANS -->
+						<section id="floors-desk" class="container d-md-block d-block d-lg-none px-4 h-100vh">
+
+							<div class="row pt-4 mx-0 ">
+								<h4 style="font-size: 2.5em;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+									<strong>ELAN <br> FLOOR PLANS</strong>
+								</h4>
+								<div class="mx-auto px-0">
+									<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+								</div>
+								<!--<p class="text-right mt-3 mb-0 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+									of ELAN PHASE 03
+								</p>-->
+							</div>	
+
+							<!-- ELAN floor plans -->
+								<div id="section_townhouse" style="display:block">
+									
+
+									<div class="row mt-4 mx-auto">
+										<div class="col-md-2 gx-5 mb-4 pt-0 px-0 text-center " style="z-index: 1" >
+											<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#1_bedroom" onclick="oneBedroom()" class="font-kanit text-muted" style="font-size: 1.5rem; text-decoration: underline; z-index: 100; color: #000 !important" id="mobile_1_bedd">3 Bedroom Townhouse</a>
+										</div>	
+										<div class="col-md-2 gx-5 mb-4 pt-0 px-0  text-center " style="z-index: 1">
+											<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#2_bedroom" onclick="twoBedroom()" class="font-kanit text-muted" style="font-size: 1.5rem; z-index: 100; color: #000 !important" id="mobile_2_bedd">4 Bedroom Townhouse</a>
+										</div>
+									</div>
+
+									<div class="row mx-auto text-center mt-4">
+										<div class="col-md-12 gx-5 mb-4 pt-0 px-0_ mx-0 text-right" style="z-index: 1; display: block;" id="mobile_oneBedroom">
+											<div class="row">
+												<div class="col-md-12 px-0">
+													<div class="mobile-owl-one owl-carousel owl-theme px-0">
+														<div class="mx-2 item"> 
+															<a data-fslightbox="mobile_townhouses_elan" href="images/townhouses/ELAN/3-bed-1.webp">
+																<img  alt="tilal al ghaf"  src="images/townhouses/ELAN/3-bed-1.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+															</a>	
+														</div>
+
+														<div class="mx-2 item"> 
+															<a data-fslightbox="mobile_townhouses_elan" href="images/townhouses/ELAN/3-bed-2.webp">
+																<img  alt="tilal al ghaf"  src="images/townhouses/ELAN/3-bed-2.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+															</a>	
+														</div>			
+													</div>
+												</div>
+												<div class="col-12 my-auto">
+													<p class="font-kanit fw-bold" style="font-size: 1.5rem;">3 Bedroom Townhouse
+													<button class="btn btn-dark btn-lg btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+														Download Floor Plans	
+													</button><br>
+													<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+												</div>
+											</div>
+										</div>
 
 
-					<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="fourBedroom">
-						<div class="row">
-							<div class="col-6">
-								<img src="images/floor-plan/4.webp" class="shadow" width="400px;" height="400px;" style="z-index: -5; text-align: center;  background-position: center;"/>
-							</div>
-							<div class="col-6 my-auto">
-								<p class="font-kanit fw-bold" style="font-size: 3.5rem;">4 Bedroom</p>
-								<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-									Download Floor Plans
-								</button><br>
-								<a href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
-							</div>
-						</div>
-					</div>
+										<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="mobile_twoBedroom">
+											<div class="row">
+												<div class="mobile-owl-one owl-carousel owl-theme px-0">
+													<div class="mx-2 item"> 
+														<a data-fslightbox="mobile_townhouses_elan_4bed" href="images/townhouses/ELAN/4-bed-1.webp">
+															<img  alt="tilal al ghaf"  src="images/townhouses/ELAN/4-bed-1.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+														</a>	
+													</div>
+
+													<div class="mx-2 item"> 
+														<a data-fslightbox="mobile_townhouses_elan_4bed" href="images/townhouses/ELAN/4-bed-2.webp">
+															<img  alt="tilal al ghaf"  src="images/townhouses/ELAN/4-bed-2.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+														</a>	
+													</div>								
+												</div>
+												<div class="col-12 my-auto">
+													<p class="font-kanit fw-bold" style="font-size: 1.5rem;">4 Bedroom Townhouse
+													<button class="btn btn-dark btn-lg btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+														Download Floor Plans	
+													</button><br>
+													<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							<!-- ELAN floor plans -->
+						</section>
+					<!-- TOWNHOUSE - ELAN - FLOOR PLANS -->
+
 				</div>
-			</section>
-
-			<!-- About Mobile -->
-			<section id="floors-mobile" class="d-md-block d-block d-lg-none px-4 py-3 text-dark">
-				<h4 style="font-size: 2.5rem;" class="text-uppercase pt-0 rounded-5 mb-1 px-0">
-						<strong>Explore Floor Plans</strong>
-					</h4>
-					<div class="mx-auto px-0">
-						<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
-					</div>
-					<p class="text-right my-3 px-0" style="font-family: TildaSans; font-size: 1.5rem">
-						of Bluewaters Bay
-					</p>
-					<div class="text-center">
-						<style>
-							.bedrooms:hover {
-								color: #027bdd;		
-							}
-						</style>
-						<a href="#1_bedroom" onclick="oneBedroom2()" class="font-kanit text-dark my-2" style="font-size: 1.5rem; color: #000 !important;  text-decoration: underline" id="1_bed">1 Bedroom</a>
-						<br>
-						<a href="#2_bedroom" onclick="twoBedroom2()" class="font-kanit text-dark my-2" style="font-size: 1.5rem; color: #000 !important; " id="2_bed">2 Bedrooms</a>
-						<br>
-						<a href="#3_bedroom" onclick="threeBedroom2()" class="font-kanit text-dark my-2" style="font-size: 1.5rem; color: #000 !important; " id="3_bed">3 Bedrooms</a>
-						<br>
-						<a href="#4_bedroom" onclick="fourBedroom2()" class="font-kanit text-dark my-2" style="font-size: 1.5rem; color: #000 !important; " id="4_bed">4 Bedrooms</a>
-					</div>
-
-				<div class="row mx-auto text-center mt-4">
-
-					<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: block;" id="oneBedroom2">
-						<div class="row">
-							<img src="images/floor-plan/1.webp" class="shadow p-0"  style="z-index: -5; text-align: center;  background-position: center; width: 100%;"/>
-						</div>
-						<div class="row">
-							<p class="font-kanit fw-bold" style="font-size: 1.5rem;">1 Bedroom</p>
-							<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-								Download Floor Plans
-							</button><br>
-							<a href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
-						</div>
-					</div>
-
-					<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="twoBedroom2">
-						<div class="row">
-							<img src="images/floor-plan/2.webp" class="shadow p-0"  style="z-index: -5; text-align: center;  background-position: center; width: 100%;"/>
-						</div>
-						<div class="row">
-							<p class="font-kanit fw-bold" style="font-size: 1.5rem;">2 Bedroom</p>
-							<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-								Download Floor Plans
-							</button><br>
-							<a href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
-						</div>
-					</div>
+			<!-- TOWNHOUSE - ELAN - MOBILE-->
+			
 
 
-					<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="threeBedroom2">
-						<div class="row">
-							<img src="images/floor-plan/3.webp" class="shadow p-0"  style="z-index: -5; text-align: center;  background-position: center; width: 100%;"/>
+			<!-- TOWNHOUSE - AURA GARDENS -->
+				<div class="section_townhouse">
+					<section id="prices-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 mt-5">
+			
+						<div class=" container row mx-auto pt-5 my-auto">
+							<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
+									<img  alt="tilal al ghaf"  src="images/townhouses/img73_square.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(50%);"/>
+								</div>
+							</div>
+
+							<div class="col-md-6 gx-5 mb-4 text-white" style="z-index: 2; margin-top: 60px;">
+								<div class="row" >
+									<div class="col-6 m-0 p-0 w-0">
+										<h4 style="font-size: 3rem; margin-left: -450px;  width: 600px; text-align: right !important; line-height: 1.3" class="text-uppercase pt-5  p-4 rounded-5 text-right">
+											<strong>
+												AURA GARDENS 
+											</strong>
+										</h4>
+									</div>
+
+									<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
+										<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
+											
+											Discover an Unparalleled Lifestyle
+										</p>
+										<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+										<p class="text-muted" style="font-size: 1.1rem; width: 600px">
+										Step into Aura Gardens and evoke your senses with authentic experiences 
+										and human connections. All exquisitely set in serene landscaping with 
+										meticulously designed architecture and amenities. Select from a collection 
+										of 4 bedroom twin villas or 3 and 4 bedroom townhouses with exceptional living spaces. 
+										Live life on your own terms with customizable living options. A choice of 
+										contemporary facades, functional interior layouts and exclusive Sky Suite
+										options offer the personalization every home needs.
+										</p>
+									</div>
+								</div>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+								
+							</div>
 						</div>
-						<div class="row">
-							<p class="font-kanit fw-bold" style="font-size: 1.5rem;">3 Bedroom</p>
-							<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-								Download Floor Plans
-							</button><br>
-							<a href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
-						</div>
-					</div>
+					</section>
+
+					<!-- TOWNHOUSE - AURA GARDENS - FLOOR PLANS -->
+					<section id="floors-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
+
+						<div class="row pt-4 mx-0">
+							<h4 style="font-size: 3rem;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+								<strong>AURA GARDENS FLOOR PLANS</strong>
+							</h4>
+							<div class="mx-auto px-0">
+								<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+							</div>
+							<!-- <p class="text-right mt-3 mb-0 px-0" style="font-family: TildaSans; font-size: 1.5rem">
+								of ELAN PHASE 03
+							</p> -->
+						</div>	
+
+						<!-- ELAN floor plans -->
+							<div id="section_townhouse" style="display:block">
+								<div class="row mt-4 mx-auto">
+									<div class="col-md-3 gx-5 mb-4 pt-0 px-0 ms-0 me-4 text-left " style="z-index: 1" >
+										<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#1_bedroom" onclick="oneBedroom_aura()" class="font-kanit text-muted" style="font-size: 2rem; text-decoration: underline;" id="1_bedd_aura">3 Bed Townhouse</a>
+									</div>	
+									<div class="col-md-3 gx-5 mb-4 pt-0 px-0 ms-4 text-left " style="z-index: 1">
+										<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#2_bedroom" onclick="twoBedroom_aura()" class="font-kanit text-muted" style="font-size: 2rem;" id="2_bedd_aura">4 Bed Townhouse</a>
+									</div>
+								</div>
+
+								<div class="row mx-auto text-center mt-4">
+									<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: block;" id="oneBedroom_aura">
+										<div class="row">
+											<div class="col-3">								
+												<a data-fslightbox="aura-gardens-3" href="images/townhouses/AURA/img129.webp">
+													<img  alt="tilal al ghaf"  src="images/townhouses/AURA/img129.webp" class="shadow" width="230px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>								
+											</div>
+											<div class="col-3">
+												<a data-fslightbox="aura-gardens-3" href="images/townhouses/AURA/img88.webp">
+													<img  alt="tilal al ghaf"  src="images/townhouses/AURA/img88.webp" class="shadow" width="230px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>
+											</div>
+											<div class="col-6 my-auto">
+												<small style="font-size: 1.5rem;">
+													202.1 sq.m / 2,175 sq.ft
+												</small>
+												<p class="font-kanit fw-bold" style="font-size: 3.5rem;">3 Bedroom Townhouse</p>
+												<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+													Download Floor Plans	
+												</button><br>
+												<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+											</div>
+										</div>
+									</div>
 
 
-					<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="fourBedroom2">
-						<div class="row">
-							<img src="images/floor-plan/4.webp" class="shadow p-0"  style="z-index: -5; text-align: center;  background-position: center; width: 100%;"/>
-						</div>
-						<div class="row">
-							<p class="font-kanit fw-bold" style="font-size: 1.5rem;">4 Bedroom</p>
-							<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
-								Download Floor Plans
-							</button><br>
-							<a href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
-						</div>
-					</div>
+									<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="twoBedroom_aura">
+										<div class="row">
+											<div class="col-3">								
+												<a data-fslightbox="aura-gardens-4" href="images/townhouses/AURA/img68.webp">
+													<img  alt="tilal al ghaf"  src="images/townhouses/AURA/img68.webp" class="shadow" width="230px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>								
+											</div>
+											<div class="col-3">
+												<a data-fslightbox="aura-gardens-4" href="images/townhouses/AURA/img73.webp">
+													<img  alt="tilal al ghaf"  src="images/townhouses/AURA/img73.webp" class="shadow" width="230px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>
+											</div>
+											<div class="col-6 my-auto">
+												<small style="font-size: 1.5rem;">
+													229.5 sq.m / 2,470 sq.ft
+												</small>
+												<p class="font-kanit fw-bold" style="font-size: 3.5rem;">4 Bedroom Townhouse</p>
+												<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+													Download Floor Plans
+												</button><br>
+												<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						<!-- ELAN floor plans -->
+					</section>
 				</div>
-			</section>
+			<!-- TOWNHOUSE - AURA GARDENS -->
 
 
+			<!-- TOWNHOUSE - AURA GARDEN - MOBILE-->
+				<div class="section_townhouse">
+					<section  class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
+						<div class="row py-5">
+							<div class="col-md-6 gx-5 mb-4">
+
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
+									<h4 style="font-size: 2em; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 120px;" class="text-uppercase text-white pt-5 mt-5">
+										<strong>
+											Discover an Unparalleled Lifestyle
+										</strong>
+									</h4>
+									
+									<img  alt="tilal al ghaf"  src="images/townhouses/img73_square.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
+									
+								</div>
+								
+							</div>
+
+							<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 0px;">
+								<h4 style="font-size: 2.5em;" class="text-uppercase pt-0"><strong>
+									AURA GARDENS
+								</strong></h4>
+								
+								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+								<p class="text-muted" style="font-size: 1em; text-align: justify; line-height: 1.5">
+									Step into Aura Gardens and evoke your senses with authentic experiences 
+									and human connections. All exquisitely set in serene landscaping with 
+									meticulously designed architecture and amenities. Select from a collection 
+									of 4 bedroom twin villas or 3 and 4 bedroom townhouses with exceptional living spaces. 
+									Live life on your own terms with customizable living options. A choice of 
+									contemporary facades, functional interior layouts and exclusive Sky Suite
+									 options offer the personalization every home needs.
+								</p>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+
+							</div>
+						</div>
+					</section>
+
+					<!-- TOWNHOUSE - AURA GARDENS - FLOOR PLANS -->
+						<section id="floors-desk" class="container d-md-block d-block d-lg-none px-4 h-100vh">
+
+							<div class="row pt-4 mx-0">
+								<h4 style="font-size: 2em;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+									<strong>AURA GARDENS FLOOR PLANS</strong>
+								</h4>
+								<div class="mx-auto px-0">
+									<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+								</div>
+							</div>	
+
+							<!-- ELAN floor plans -->
+								<div id="section_townhouse" style="display:block">
+									
+
+									<div class="row mt-4 mx-auto">
+										<div class="col-md-2 gx-5 mb-4 pt-0 px-0 ms-0 text-center " style="z-index: 1" >
+											<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#1_bedroom" onclick="oneBedroom_aura()" class="font-kanit text-muted text-center" style="font-size: 1.5rem; text-decoration: underline; color:#000 !important;" id="mobile_1_bedd_aura">3 Bed Townhouse</a>
+										</div>
+
+										<div class="col-md-2 gx-5 mb-4 pt-0 px-0 mx-0 text-center " style="z-index: 1">
+											<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#2_bedroom" onclick="twoBedroom_aura()" class="font-kanit text-muted text-center" style="font-size: 1.5rem; color:#000 !important;" id="mobile_2_bedd_aura">4 Bed Townhouse</a>
+										</div>
+									</div>
+
+									<div class="row mx-auto text-center mt-4">
+										<div class="col-md-12 gx-5 mb-4 pt-0 px-0_ mx-0 text-right" style="z-index: 1; display: block;" id="mobile_oneBedroom_aura">
+											<div class="row">
+												
+												<div class="col-md-12 px-0">
+													<div class="mobile-owl-one owl-carousel owl-theme px-0">
+														<div class="mx-2 item"> 
+															<a data-fslightbox="mobile_townhouses_aura_3bed" href="images/townhouses/AURA/img129.webp">
+																<img  alt="tilal al ghaf"  src="images/townhouses/AURA/img129.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+															</a>	
+														</div>
+
+														<div class="mx-2 item"> 
+															<a data-fslightbox="mobile_townhouses_aura_3bed" href="images/townhouses/AURA/img88.webp">
+																<img  alt="tilal al ghaf"  src="images/townhouses/AURA/img88.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+															</a>	
+														</div>			
+													</div>
+												</div>
+												<div class="col-12 my-auto">
+													<p class="font-kanit fw-bold" style="font-size: 1.5rem;">3 Bedroom Townhouse
+													<button class="btn btn-dark btn-lg btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+														Download Floor Plans	
+													</button><br>
+													<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+												</div>
+											</div>
+										</div>
+
+
+										<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="mobile_twoBedroom_aura">
+											<div class="row">
+												
+												<div class="mobile-owl-one owl-carousel owl-theme px-0">
+													<div class="mx-2 item"> 
+														<a data-fslightbox="mobile_townhouses_aura_4bed" href="images/townhouses/AURA/img68.webp">
+															<img  alt="tilal al ghaf"  src="images/townhouses/AURA/img68.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+														</a>	
+													</div>
+
+													<div class="mx-2 item"> 
+														<a data-fslightbox="mobile_townhouses_aura_4bed" href="images/townhouses/AURA/img73.webp">
+															<img  alt="tilal al ghaf"  src="images/townhouses/AURA/img73.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+														</a>	
+													</div>								
+												</div>
+												<div class="col-12 my-auto">
+													<p class="font-kanit fw-bold" style="font-size: 1.5rem;">4 Bedroom Townhouse 
+													<button class="btn btn-dark btn-lg  btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+														Download Floor Plans	
+													</button><br>
+													<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+												</div>
+												
+											</div>
+										</div>
+									</div>
+								</div>
+							<!-- ELAN floor plans -->
+						</section>
+					<!-- TOWNHOUSE - AURA GARDENS - FLOOR PLANS -->
+
+				</div>
+			<!-- TOWNHOUSE - AURA GARDEN - MOBILE-->
+
+
+
+
+
+			<!-- VILLA - DESKTOP - HARMONY  -->
+				<div class="section_villa" style="display: none;">
+					<section id="prices-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 mt-5">
+			
+						<div class=" container row mx-auto pt-5 my-auto">
+							<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
+									<img  alt="tilal al ghaf"  src="images/villas/img391.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(50%);"/>
+									<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#!">
+										<div class="mask" style="background-color: rgba(0, 0, 0, 0.5);"></div>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-md-6 gx-5 mb-4 text-white" style="z-index: 2; margin-top: 60px;">
+								<div class="row" >
+									<div class="col-6 m-0 p-0 w-0">
+										<h4 style="font-size: 3rem; margin-left: -450px;  width: 600px; text-align: right !important; line-height: 1.3" class="text-uppercase pt-5  p-4 rounded-5 text-right">
+											<strong>
+												HARMONY VILLAS 
+											</strong>
+										</h4>
+									</div>
+
+									<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
+										<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
+											
+											LIVE IN HARMONY
+										</p>
+										<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+										<p class="text-muted" style="font-size: 1.1rem; width: 600px">
+											At Harmony you will find a haven that you can call home. This 
+											impressive collection of effortlessly modern villas has been crafted 
+											to offer an enhanced lifestyle set in stunning surroundings. The 4,5 
+											and 6 bedroom villas have flowing 
+											layouts and each residence has the unique benefit of a bespoke Garden 
+											Suite which offers the freedom to create meaningful spaces that 
+											complement your lifestyle. 
+											Steps away from your home are parks, open spaces, pools, and a 
+											choice of unrivalled resort style amenities that are designed to nurture life balance and community spirit. At Harmony III, every detail has been meticulously crafted with you in mind. 
+										</p>
+									</div>
+								</div>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+								
+							</div>
+						</div>
+					</section>
+
+					<!-- VILLAS - HARMONY  - FLOOR PLANS -->
+					<section id="floors-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
+
+						<div class="row pt-4 mx-0">
+							<h4 style="font-size: 3rem;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+								<strong>HARMONY FLOOR PLANS</strong>
+							</h4>
+							<div class="mx-auto px-0">
+								<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+							</div>
+						</div>	
+
+						<!-- ELAN floor plans -->
+							<div id="section_townhouse" style="display:block">
+								<div class="row mt-4 mx-auto">
+									<div class="col-md-3 gx-5 mb-4 pt-0 px-0 ms-0 me-4 text-left " style="z-index: 1" >
+										<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#1_bedroom" onclick="oneBedroom_harmony3()" class="font-kanit text-muted" style="font-size: 2rem; text-decoration: underline;" id="1_bedd_harmony3">4 Bedroom Villa</a>
+									</div>	
+									<div class="col-md-3 gx-5 mb-4 pt-0 px-0 ms-4 text-left " style="z-index: 1">
+										<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#2_bedroom" onclick="twoBedroom_harmony3()" class="font-kanit text-muted" style="font-size: 2rem;" id="2_bedd_harmony3">5 Bedroom Villa</a>
+									</div>
+									<div class="col-md-3 gx-5 mb-4 pt-0 px-0 ms-4 text-left " style="z-index: 1">
+										<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#2_bedroom" onclick="threeBedroom_harmony3()" class="font-kanit text-muted" style="font-size: 2rem;" id="3_bedd_harmony3">6 Bedroom Villa</a>
+									</div>
+								</div>
+
+								<div class="row mx-auto text-center mt-4">
+									<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: block;" id="oneBedroom_harmony3">
+										<div class="row">
+											<div class="col-3">								
+												<a data-fslightbox="villas-harmony3-4bed" href="images/villas/HARMONY/img665.webp">
+													<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img665.webp" class="shadow" width="300px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>								
+											</div>
+											<div class="col-3">
+												<a data-fslightbox="villas-harmony3-4bed" href="images/villas/HARMONY/img658.webp">
+													<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img658.webp" class="shadow" width="300px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>
+											</div>
+											<div class="col-6 my-auto">
+												<small style="font-size: 1.5rem;">
+													373 sq.m / 4,016 sq.ft
+												</small>
+												<p class="font-kanit fw-bold" style="font-size: 3.5rem;">4 Bedroom Villa <br> + Garden Suite</p>
+												<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+													Download Floor Plans	
+												</button><br>
+												<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+											</div>
+										</div>
+									</div>
+
+
+									<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="twoBedroom_harmony3">
+										<div class="row">
+											<div class="col-3">								
+												<a data-fslightbox="villas-harmony3-5bed" href="images/villas/HARMONY/img618.webp">
+													<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img618.webp" class="shadow" width="300px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>								
+											</div>
+											<div class="col-3">
+												<a data-fslightbox="villas-harmony3-5bed" href="images/villas/HARMONY/img613.webp">
+													<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img613.webp" class="shadow" width="300px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>
+											</div>
+											<div class="col-6 my-auto">
+												<small style="font-size: 1.5rem;">
+													416 sq.m / 4,477 sq.ft
+												</small>
+												<p class="font-kanit fw-bold" style="font-size: 3.5rem;">5 Bedroom Villa <br> + Garden Suite</p>
+												<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+													Download Floor Plans
+												</button><br>
+												<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="threeBedroom_harmony3">
+										<div class="row">
+											<div class="col-3">								
+												<a data-fslightbox="villas-harmony3-6bed" href="images/villas/HARMONY/img532.webp">
+													<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img532.webp" class="shadow" width="300px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>								
+											</div>
+											<div class="col-3">
+												<a data-fslightbox="villas-harmony3-6bed" href="images/villas/HARMONY/img538.webp">
+													<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img538.webp" class="shadow" width="300px;" height="600px;" style="z-index: -5; text-align: center;  background-position: center;"/>
+												</a>
+											</div>
+											<div class="col-6 my-auto">
+												<small style="font-size: 1.5rem;">
+													405 sq.m / 6,515 sq.ft
+												</small>
+												<p class="font-kanit fw-bold" style="font-size: 3.5rem;">6 Bedroom Villa <br> + Garden Suite</p>
+												<button class="btn btn-dark btn-lg m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.5rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+													Download Floor Plans
+												</button><br>
+												<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						<!-- ELAN floor plans -->
+					</section>
+				</div>
+			<!-- VILLA - DESKTOP - HARMONY  -->
+
+
+			<!-- VILLA - MOBILE - HARMONY -->
+				<div class="section_villa" style="display: none;">
+					<section  class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
+						<div class="row py-5">
+							<div class="col-md-6 gx-5 mb-4">
+
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
+									<h4 style="font-size: 1.5em; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 150px;" class="text-uppercase text-white pt-5 mt-5">
+										<strong>
+											Escape to luxury at Harmony Villas
+										</strong>
+									</h4>
+									
+									<img  alt="tilal al ghaf"  src="images/villas/img391.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
+									
+								</div>
+								
+							</div>
+
+							<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 0px;">
+								<h4 style="font-size: 2em;" class="text-uppercase pt-0"><strong>
+									HARMONY VILLAS
+								</strong></h4>
+								
+								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+								<p class="text-muted" style="font-size: 1.1em; text-align: justify; line-height: 1.5">
+									At Harmony you will find a haven that you can call home. 
+									This impressive collection of effortlessly modern villas 
+									has been crafted to offer an enhanced lifestyle set in 
+									stunning surroundings. The 4,5 and 6 bedroom villas have 
+									flowing layouts and each residence has the unique benefit 
+									of a bespoke Garden Suite which offers the freedom to 
+									create meaningful spaces that complement your lifestyle. 
+									Steps away from your home are parks, open spaces, pools, 
+									and a choice of unrivalled resort style amenities that 
+									are designed to nurture life balance and community spirit. 
+									At Harmony III, every detail has been meticulously 
+									crafted with you in mind.
+								</p>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+							</div>
+						</div>
+					</section>
+
+					<!-- VILLA - HARMONY - FLOOR PLANS -->
+						<section id="floors-desk" class="container d-md-block d-block d-lg-none px-4 h-100vh">
+
+							<div class="row pt-4 mx-0">
+								<h4 style="font-size: 2em;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+									<strong>HARMONY FLOOR PLANS</strong>
+								</h4>
+								<div class="mx-auto px-0">
+									<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+								</div>
+							</div>	
+
+							<!-- HARMONY floor plans -->
+								<div id="section_villa" style="display:block">								
+
+									<div class="row mt-4 mx-auto">
+										<div class="col-md-3 gx-5 mb-4 pt-0 px-0 mx-0 text-center " style="z-index: 1" >
+											<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#1_bedroom" onclick="oneBedroom_harmony3()" class="font-kanit text-muted" style="font-size: 1.5em; text-decoration: underline; color: #000 !important;" id="mobile_1_bedd_harmony3">4 Bedroom Villa</a>
+										</div>	
+										<div class="col-md-3 gx-5 mb-4 pt-0 px-0 mx-0 text-center " style="z-index: 1">
+											<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#2_bedroom" onclick="twoBedroom_harmony3()" class="font-kanit text-muted" style="font-size: 1.5em; color: #000 !important;" id="mobile_2_bedd_harmony3">5 Bedroom Villa</a>
+										</div>
+										<div class="col-md-3 gx-5 mb-4 pt-0 px-0 mx-0 text-center " style="z-index: 1">
+											<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#2_bedroom" onclick="threeBedroom_harmony3()" class="font-kanit text-muted" style="font-size: 1.5em; color: #000 !important;" id="mobile_3_bedd_harmony3">6 Bedroom Villa</a>
+										</div>
+									</div>
+
+									<div class="row mx-auto text-center mt-4">
+										<div class="col-md-12 gx-5 mb-4 pt-0 px-0_ mx-0 text-right" style="z-index: 1; display: block;" id="mobile_oneBedroom_harmony3">
+											<div class="row">
+												<div class="col-md-12 px-0">
+													<div class="mobile-owl-one owl-carousel owl-theme px-0">
+														<div class="mx-2 item"> 
+															<a data-fslightbox="mobile_villas_harmony_4bed" href="images/villas/HARMONY/img665.webp">
+																<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img665.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+															</a>	
+														</div>
+
+														<div class="mx-2 item"> 
+															<a data-fslightbox="mobile_villas_harmony_4bed" href="images/villas/HARMONY/img658.webp">
+																<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img658.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+															</a>	
+														</div>			
+													</div>
+												</div>
+												<div class="col-12 my-auto">
+													<p class="font-kanit fw-bold" style="font-size: 1.5rem; line-height: 1.1">4 Bedroom Villas <br> + Garden Suite
+													<button class="btn btn-dark btn-lg btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+														Download Floor Plans	
+													</button><br>
+													<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+												</div>
+											</div>
+										</div>
+
+
+										<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="mobile_twoBedroom_harmony3">
+											<div class="row">
+												<div class="mobile-owl-one owl-carousel owl-theme px-0">
+													<div class="mx-2 item"> 
+														<a data-fslightbox="mobile_villas_harmony_5bed" href="images/villas/HARMONY/img618.webp">
+															<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img618.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+														</a>	
+													</div>
+
+													<div class="mx-2 item"> 
+														<a data-fslightbox="mobile_villas_harmony_5bed" href="images/villas/HARMONY/img613.webp">
+															<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img613.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+														</a>	
+													</div>								
+												</div>
+												<div class="col-12 my-auto">
+													<p class="font-kanit fw-bold" style="font-size: 1.5rem; line-height: 1.1">5 Bedroom Villas <br> + Garden Suite
+													<button class="btn btn-dark btn-lg btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+														Download Floor Plans	
+													</button><br>
+													<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+												</div>
+											</div>
+										</div>
+
+										<div class="col-md-12 gx-5 mb-4 pt-0 px-0 mx-0 text-right" style="z-index: 1; display: none;" id="mobile_threeBedroom_harmony3">
+											<div class="row">
+												<div class="mobile-owl-one owl-carousel owl-theme px-0">
+													<div class="mx-2 item"> 
+														<a data-fslightbox="mobile_villas_harmony_6bed" href="images/villas/HARMONY/img532.webp">
+															<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img532.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+														</a>	
+													</div>
+
+													<div class="mx-2 item"> 
+														<a data-fslightbox="mobile_villas_harmony_6bed" href="images/villas/HARMONY/img538.webp">
+															<img  alt="tilal al ghaf"  src="images/villas/HARMONY/img538.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+														</a>	
+													</div>								
+												</div>
+												<div class="col-12 my-auto">
+													<p class="font-kanit fw-bold" style="font-size: 1.5rem; line-height: 1.1">6 Bedroom Villas <br> + Garden Suite
+													<button class="btn btn-dark btn-lg btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+														Download Floor Plans	
+													</button><br>
+													<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#download PDF" data-mdb-toggle="modal" data-mdb-target="#exampleModal" class="text-muted fw-light" style="font-size: .8rem">Download PDF File</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							<!-- ELAN floor plans -->
+						</section>
+					<!-- VILLA - HARMONY - FLOOR PLANS -->
+
+				</div>
+			<!-- VILLA - MOBILE - HARMONY -->
+
+
+
+			<!-- VILLA - DESKTOP - ALAYA -->
+				<div class="section_villa" style="display: none;">
+
+					<section id="prices-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 mt-5">
+			
+						<div class=" container row mx-auto pt-5 my-auto">
+							<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
+									<img  alt="tilal al ghaf"  src="images/villas/img155.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(50%);"/>
+									<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#!">
+										<div class="mask" style="background-color: rgba(0, 0, 0, 0.5);"></div>
+									</a>
+								</div>
+							</div>
+
+							<div class="col-md-6 gx-5 mb-4 text-white" style="z-index: 2; margin-top: 60px;">
+								<div class="row" >
+									<div class="col-6 m-0 p-0 w-0">
+										<h4 style="font-size: 3rem; margin-left: -450px;  width: 600px; text-align: right !important; line-height: 1.3" class="text-uppercase pt-5  p-4 rounded-5 text-right">
+											<strong>
+												ALAYA GRANDE <br> VILLAS 
+											</strong>
+										</h4>
+									</div>
+
+									<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
+										<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
+											
+											BE ONE WITH LIFE
+										</p>
+										<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+										<p class="text-muted" style="font-size: 1.1rem; width: 600px">
+										Life is awakened at Alaya. Discover open green spaces and verdant 
+										landscaping interwoven with open green spaces. Enjoy exclusive access to 
+										Lagoon Al Ghaf and its private white sandy beach. The façade of your home 
+										at Alaya expresses who you are and sets the tone for the stunning spaces 
+										that follow. Select from two statement styles – The Modernist or The Mediterranean.
+
+										</p>
+									</div>
+								</div>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+								
+							</div>
+						</div>
+
+					</section>
+
+					<!-- VILLA - ALAYA - FLOOR PLANS -->
+					<section id="floors-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
+
+						<div class="row pt-4 mx-0">
+							<h4 style="font-size: 3rem;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+								<strong>ALAYA FLOOR PLANS</strong>
+							</h4>
+							<div class="mx-auto px-0">
+								<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+							</div>
+						</div>
+
+						<!-- ALAYA floor plans -->
+							<div id="section_townhouse" style="display:block">
+								<div class="section_villa row mx-auto mt-4">
+									<div class="owl-two owl-carousel owl-theme " >
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/Haven Select_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/Haven Select_Type A.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<!-- <div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/Haven Select_Type B.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/Haven Select_Type B.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div> -->
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/Reserve Retreat Haven Haven Select_Zen Sanctuary.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/Reserve Retreat Haven Haven Select_Zen Sanctuary.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Haven Select_Zen sanctuary.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Haven Select_Zen sanctuary.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Haven_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Haven_Type A.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Haven_Type B.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Haven_Type B.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Haven_Zen Sanctuary.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Haven_Zen Sanctuary.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Reserve  and The Retreat_Zen Sanctuary.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Reserve  and The Retreat_Zen Sanctuary.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Reserve_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Reserve_Type A.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Reserve_Type B.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Reserve_Type B.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Retreat_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Retreat_Type A.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="villas-harmony" href="images/villas/ALAYA/The Retreat_Type B.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Retreat_Type B.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+									</div>
+								</div>
+							</div>
+						<!-- ELAN floor plans -->
+					</section>
+				</div>
+			<!-- VILLA - DESKTOP - ALAYA -->
+
+
+			<!-- VILLA - MOBILE - ALAYA -->
+				<div class="section_villa" style="display: none;">
+					<section  class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
+						<div class="row py-5">
+							<div class="col-md-6 gx-5 mb-4">
+
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
+									<h4 style="font-size: 1.5em; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 150px;" class="text-uppercase text-white pt-5 mt-5">
+										<strong>
+											Indulge in luxury at ALAYA Villas
+										</strong>
+									</h4>
+									
+									<img  alt="tilal al ghaf"  src="images/villas/img155.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
+									
+								</div>
+								
+							</div>
+
+							<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 0px;">
+								<h4 style="font-size: 2em;" class="text-uppercase pt-0"><strong>
+									ALAYA GRANDE VILLAS
+								</strong></h4>
+								
+								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+								<p class="text-muted" style="font-size: 1.1em; text-align: justify; line-height: 1.5">
+									Life is awakened at Alaya. Discover open green spaces and 
+									verdant landscaping interwoven with open green spaces. 
+									Enjoy exclusive access to Lagoon Al Ghaf and its private 
+									white sandy beach. The façade of your home at Alaya expresses 
+									who you are and sets the tone for the stunning spaces that follow. 
+									Select from two statement styles – The Modernist or The Mediterranean.
+								</p>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+							</div>
+						</div>
+					</section>
+
+					<!-- VILLA - HARMONY - FLOOR PLANS -->
+						<section id="floors-desk" class="container d-md-block d-block d-lg-none px-4 h-100vh">
+
+							<div class="row pt-4 mx-0">
+								<h4 style="font-size: 2em;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+									<strong>ALAYA  FLOOR PLANS</strong>
+								</h4>
+								<div class="mx-auto px-0 mb-3">
+									<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+								</div>
+							</div>	
+
+							<!-- HARMONY floor plans -->
+								<div id="section_villa mt-5" style="display:block">								
+									<div class="owl-two owl-carousel owl-theme " >
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/Haven Select_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/Haven Select_Type A.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<!-- <div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/Haven Select_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/Haven Select_Type B.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div> -->
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/Reserve Retreat Haven Haven Select_Zen Sanctuary.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/Reserve Retreat Haven Haven Select_Zen Sanctuary.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Haven Select_Zen sanctuary.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Haven Select_Zen sanctuary.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Haven_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Haven_Type A.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Haven_Type B.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Haven_Type B.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Haven_Zen Sanctuary.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Haven_Zen Sanctuary.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Reserve  and The Retreat_Zen Sanctuary.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Reserve  and The Retreat_Zen Sanctuary.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Reserve_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Reserve_Type A.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Reserve_Type B.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Reserve_Type B.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Retreat_Type A.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Retreat_Type A.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+										
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-villas-alaya" href="images/villas/ALAYA/The Retreat_Type B.webp">
+												<img  alt="tilal al ghaf"  src="images/villas/ALAYA/The Retreat_Type B.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+									</div>
+								</div>
+							<!-- ELAN floor plans -->
+						</section>
+					<!-- VILLA - HARMONY - FLOOR PLANS -->
+
+				</div>
+			<!-- VILLA - MOBILE - ALAYA -->
+
+
+
+			<!-- MANSIONS - ELYSIAN -->
+				<div class="section_mansion" style="display: none;">
+					<section id="prices-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 mt-5">
+			
+						<div class=" container row mx-auto pt-5 my-auto">
+							<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
+									<img  alt="tilal al ghaf"  src="images/mansions/img89-square.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(50%);"/>
+									
+								</div>
+							</div>
+
+							<div class="col-md-6 gx-5 mb-4 text-white" style="z-index: 2; margin-top: 60px;">
+								<div class="row" >
+									<div class="col-6 m-0 p-0 w-0">
+										<h4 style="font-size: 3rem; margin-left: -450px;  width: 600px; text-align: right !important; line-height: 1.3" class="text-uppercase pt-5  p-4 rounded-5 text-right">
+											<strong>
+												ELYSIAN MANSIONS
+											</strong>
+										</h4>
+									</div>
+
+									<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
+										<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
+											
+											AN OASIS OF REFINED LIVING
+										</p>
+										<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+										<p class="text-muted" style="font-size: 1.1rem; width: 600px">
+											Elysian Mansions is an exclusive, residential waterfront enclave abutting the lagoon of 
+											Tilal Al Ghaf. Inspired by the Elysian Fields of Greek mythology, this hallmark luxury 
+											neighbourhood conceived by Majid Al Futtaim offers the most distinctive and thoughtful 
+											residences to date. 
+											These bespoke, expertly crafted mansions are tailored to your tastes, with generous spaces, 
+											stunning finishes, and expansive pockets of  natural beauty woven throughout the homes.
+										</p>
+									</div>
+								</div>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+								
+							</div>
+						</div>
+					</section>
+
+					<!-- MANSIONS - ELYSIAN - FLOOR PLANS -->
+					<section id="floors-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
+
+						<div class="row pt-4 mx-0">
+							<h4 style="font-size: 3rem;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+								<strong>ELYSIAN FLOOR PLANS</strong>
+							</h4>
+							<div class="mx-auto px-0">
+								<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+							</div>
+						</div>	
+
+						<!-- ELYSIAN floor plans -->
+							<div id="section_mansion" style="display:block">
+								<div class="section_mansion row mx-auto mt-4">
+									<div class="owl-two owl-carousel owl-theme " >
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/1.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/1.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/2.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/2.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/6.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/6.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/7.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/7.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/8.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/8.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/9.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/9.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/12.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/12.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/13.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/13.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/16.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/16.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/17.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/17.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/20.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/20.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-elysian" href="images/mansions/ELYSIAN/21.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/21.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										
+										
+									</div>
+								</div>
+							</div>
+						<!-- ELAN floor plans -->
+					</section>
+				</div>
+			<!-- MANSIONS - ELYSIAN -->
+
+
+			<!-- MANSIONS - MOBILE - ELYSIAN -->
+				<div class="section_mansion" style="display: none;">
+					<section  class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
+						<div class="row py-5">
+							<div class="col-md-6 gx-5 mb-4">
+
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
+									<h4 style="font-size: 1.5em; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 150px;" class="text-uppercase text-white pt-5 mt-5">
+										<strong>
+											Lavish and Spacious Private Mansions
+										</strong>
+									</h4>
+									
+									<img  alt="tilal al ghaf"  src="images/mansions/img89-square.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
+									
+								</div>
+								
+							</div>
+
+							<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 0px;">
+								<h4 style="font-size: 2em;" class="text-uppercase pt-0"><strong>
+									Elysian Mansions
+								</strong></h4>
+								
+								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+								<p class="text-muted" style="font-size: 1.1em; text-align: justify; line-height: 1.5">
+									Elysian Mansions is an exclusive, residential waterfront enclave abutting 
+									the lagoon of Tilal Al Ghaf. Inspired by the Elysian Fields of Greek mythology, 
+									this hallmark luxury neighbourhood conceived by Majid Al Futtaim offers 
+									the most distinctive and thoughtful residences to date. These bespoke, 
+									expertly crafted mansions are tailored to your tastes, with generous spaces, 
+									stunning finishes, and expansive pockets of natural beauty woven throughout the homes.
+								</p>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+							</div>
+						</div>
+					</section>
+
+					<!-- MANSION - ELYSIAN - FLOOR PLANS -->
+						<section id="floors-desk" class="container d-md-block d-block d-lg-none px-4 h-100vh">
+
+							<div class="row pt-3 mx-0">
+								<h4 style="font-size: 2em;  width: 900px" class="text-uppercase pt-3 rounded-5 mb-1 px-0">
+									<strong>ELYSIAN  FLOOR PLANS</strong>
+								</h4>
+								<div class="mx-auto px-0 mb-3">
+									<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+								</div>
+							</div>	
+
+							<!-- ELYSIAN floor plans -->
+								<div id="section_mansion mt-5" style="display:block">	
+									<div class="row">
+										<div class="owl-two owl-carousel owl-theme " >
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/1.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/1.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/2.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/2.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/6.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/6.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/7.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/7.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/8.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/8.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/9.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/9.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/12.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/12.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/13.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/13.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/16.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/16.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/17.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/17.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/20.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/20.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-elysian" href="images/mansions/ELYSIAN/21.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/ELYSIAN/21.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+									</div>
+									</div>							
+									
+									<div class="row mx-auto">
+										<div class="col-12 my-auto">
+											<button class="btn btn-dark btn-lg btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+												Download Floor Plans	
+											</button>
+										</div>
+									</div>	
+								</div>
+							<!-- ELAN floor plans -->
+						</section>
+					<!-- VILLA - HARMONY - FLOOR PLANS -->
+
+				</div>
+			<!-- MANSION - MOBILE - ELYSIAN -->
+
+
+
+			<!-- MANSIONS - LANAI -->
+				<div class="section_mansion" style="display: none;">
+					<section id="prices-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 mt-5">
+			
+						<div class=" container row mx-auto pt-5 my-auto">
+							<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
+									<img  alt="tilal al ghaf"  src="images/mansions/img264-square.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(50%);"/>
+									
+								</div>
+							</div>
+
+							<div class="col-md-6 gx-5 mb-4 text-white" style="z-index: 2; margin-top: 60px;">
+								<div class="row" >
+									<div class="col-6 m-0 p-0 w-0">
+										<h4 style="font-size: 3rem; margin-left: -450px;  width: 600px; text-align: right !important; line-height: 1.3" class="text-uppercase pt-5  p-4 rounded-5 text-right">
+											<strong>
+												LANAI ISLAND 
+											</strong>
+										</h4>
+									</div>
+
+									<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
+										<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
+											
+											A TOUCH OF OPULENCE
+										</p>
+										<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+										<p class="text-muted" style="font-size: 1.1rem; width: 600px">
+											The boundaries between indoors and out blend beautifully 
+											with ample use of organic materials judiciously applied to
+											evoke an exclusive aura of barefoot luxury. 
+											A curated variety of material palettes inspired by the world’s 
+											premier luxury resorts allow you to curate the look of your 
+											home in line with your aesthetic preferences. Escape to your own
+											private island of secluded luxury with your own spa pool 
+											surrounded by nature’s finest greenery facing the majestic 
+											azure waters of a private Lagoon. 
+										</p>
+									</div>
+								</div>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+								
+							</div>
+						</div>
+					</section>
+
+					<!-- MANSIONS - LANAI - FLOOR PLANS -->
+					<section id="floors-desk" class="container d-md-block d-lg-block d-none px-5 h-100vh">
+
+						<div class="row pt-4 mx-0">
+							<h4 style="font-size: 3rem;  width: 900px" class="text-uppercase pt-5 rounded-5 mb-1 px-0">
+								<strong>LANAI FLOOR PLANS</strong>
+							</h4>
+							<div class="mx-auto px-0">
+								<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+							</div>
+						</div>	
+
+						<!-- LANAI floor plans -->
+							<div id="section_townhouse" style="display:block">
+								<div class="section_mansion row mx-auto mt-4">
+									<div class="owl-two owl-carousel owl-theme " >
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-lanai" href="images/mansions/LANAI/1.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/1.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-lanai" href="images/mansions/LANAI/2.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/2.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-lanai" href="images/mansions/LANAI/3.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/3.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-lanai" href="images/mansions/LANAI/4.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/4.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-lanai" href="images/mansions/LANAI/5.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/5.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-lanai" href="images/mansions/LANAI/6.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/6.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mansions-lanai" href="images/mansions/LANAI/7.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/7.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+							</div>
+						<!-- ELAN floor plans -->
+					</section>
+				</div>
+			<!-- MANSIONS - LANAI -->
+
+
+			<!-- MANSIONS - MOBILE - LANAI -->
+				<div class="section_mansion" style="display: none;">
+					<section  class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
+						<div class="row py-5">
+							<div class="col-md-6 gx-5 mb-4">
+
+								<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
+									<h4 style="font-size: 1.5em; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 150px;" class="text-uppercase text-white pt-5 mt-5">
+										<strong>
+											Lavish Amenities and Distinguished Architecture
+										</strong>
+									</h4>
+									
+									<img  alt="tilal al ghaf"  src="images/mansions/img264.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
+									
+								</div>
+								
+							</div>
+
+							<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 0px;">
+								<h4 style="font-size: 2em;" class="text-uppercase pt-0"><strong>
+									LANAI ISLAND MANSIONS
+								</strong></h4>
+								
+								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
+								<p class="text-muted" style="font-size: 1.1em; text-align: justify; line-height: 1.5">
+									The boundaries between indoors and out blend beautifully with ample use of 
+									organic materials judiciously applied to evoke an exclusive aura of barefoot 
+									luxury. A curated variety of material palettes inspired by the world’s premier 
+									luxury resorts allow you to curate the look of your home in line with your 
+									aesthetic preferences. Escape to your own private island of secluded luxury 
+									with your own spa pool surrounded by nature’s finest greenery facing the 
+									majestic azure waters of a private Lagoon.
+								</p>
+
+								<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+									<i class="fa fa-arrow-right"></i>
+									request units and prices	
+								</a>
+							</div>
+						</div>
+					</section>
+
+					<!-- MANSION - LANAI - FLOOR PLANS -->
+						<section id="floors-desk" class="container d-md-block d-block d-lg-none px-4 h-100vh">
+
+							<div class="row pt-3 mx-0">
+								<h4 style="font-size: 2em;  width: 900px" class="text-uppercase pt-3 rounded-5 mb-1 px-0">
+									<strong>LANAI  FLOOR PLANS</strong>
+								</h4>
+								<div class="mx-auto px-0 mb-3">
+									<hr class="my-0 border border-2 border-warning" style="width: 150px; background-color: #f4a055	">
+								</div>
+							</div>	
+
+							<!-- LANAI floor plans -->
+								<div id="section_mansion mt-5" style="display:block">	
+								
+								<div class="row">
+									<div class="owl-two owl-carousel owl-theme " >
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-lanai" href="images/mansions/LANAI/1.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/1.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-lanai" href="images/mansions/LANAI/2.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/2.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-lanai" href="images/mansions/LANAI/3.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/3.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-lanai" href="images/mansions/LANAI/4.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/4.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-lanai" href="images/mansions/LANAI/5.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/5.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-lanai" href="images/mansions/LANAI/6.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/6.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+
+										<div class="mx-2 item"> 
+											<a data-fslightbox="mobile-mansions-lanai" href="images/mansions/LANAI/7.webp">
+												<img  alt="tilal al ghaf"  src="images/mansions/LANAI/7.webp" alt="Image" style="height: 100%; width: 100%;" class="rounded shadow">
+											</a>	
+										</div>
+									</div>
+								</div>	
+								<div class="row mx-auto">
+									<div class="col-12 my-auto">
+										<button class="btn btn-dark btn-lg btn-block m-1 zoom_hover bounce mt-2 fw-light" style="letter-spacing: .1.1rem;" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+											Download Floor Plans	
+										</button>
+									</div>
+								</div>						
+									
+								</div>
+							<!-- ELAN floor plans -->
+						</section>
+					<!-- VILLA - HARMONY - FLOOR PLANS -->
+
+				</div>
+			<!-- MANSION - MOBILE - LANAI -->
+			
 
 
 			<!-- the advantages -->
 			<section id="advantages-desk" class="bg-black text-white d-md-block d-lg-block d-none  pb-5 px-5 pt-0 ">
-				
-				
 				<div class=" container row mx-auto pt-5 my-auto">
 					<div class="col-md-6 gx-5 mb-4 pt-5 text-right" style="z-index: 1">
 						<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5 w-auto" data-mdb-ripple-color="light">
-							<img src="images/square/001.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(90%);"/>
-
-							<a href="#!">
-								<div class="mask" style="background-color: rgba(0, 0, 0, 0.5);"></div>
-							</a>
-
+							<img  alt="tilal al ghaf"  src="images/img101.webp" class="img-fluid text-right " style="z-index: -5; border-radius:50%; max-height: 600px; filter: brightness(90%);"/>
 						</div>
 					</div>
 
@@ -1494,7 +2951,7 @@
 							</div>
 							<div class="col-6" style="margin-left: -150px; margin-top: 80px;">
 								<p class="text-right my-3 " style="font-family: TildaSans; font-size: 1.5rem; width: 600px">
-									Connectivity of Bluewaters Bay
+									Connectivity of Tilal Al Ghaf
 								</p>
 								<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
 								<p class="text-muted" style="font-size: 1.1rem; width: 600px">
@@ -1515,29 +2972,29 @@
 							<div class="row my-4" >
 								<div class="col-6">
 									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 2rem; line-height: 1.2">
-										10 minute walk
+										5 minutes drive
 									</p>
-									<p class="my-0">from The Beach at JBR</p>
+									<p class="my-0">from Miracle Garden</p>
 								</div>
 								<div class="col-6">
 									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 2rem; line-height: 1.2">
-										5 minute drive
+										20 minutes drive
 									</p>
-									<p class="my-0">from Dubai Marina</p>
+									<p class="my-0">from Palm Jumeirah</p>
 								</div>
 							</div>
 							<div class="row my-4" >
 								<div class="col-6">
 									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 2rem; line-height: 1.2">
-										10 minute drive
+										25 minute drive
 									</p>
-									<p class="my-0">from The Palm</p>
+									<p class="my-0">from Downtown</p>
 								</div>
 								<div class="col-6">
 									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 2rem; line-height: 1.2">
-										15 minute drive
+										35 minute drive
 									</p>
-									<p class="my-0">from Downtown Dubai</p>
+									<p class="my-0">from Dubai International Airport</p>
 								</div>
 							</div>
 						</div>
@@ -1545,7 +3002,7 @@
 						
 
 						
-						<a href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+						<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 4rem; color:  #fff;  width: 600px; line-height: 1.2;" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
 							<i class="fa fa-arrow-right"></i>
 							Download brochure
 						</a>
@@ -1557,24 +3014,23 @@
 
 
 			<!-- The advantages mobile -->
-			<section id="advantages-mobile" class="bg-black text-white d-md-block d-block d-lg-none px-5 pt-3">
-				<div class="row py-5">
+			<section id="advantages-mobile" class="bg-black text-white d-md-block d-block d-lg-none  pt-3">
+				<div class="row py-5 px-5">
 					<div class="col-md-6 gx-5 mb-4">
 
 						<div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light" style="overflow: visible;">
-							<h4 style="font-size: 2.3rem; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 50px;" class="text-uppercase text-white pt-5 mt-5">
+							<h4 style="font-size: 2em; position: absolute; z-index: 2;overflow: visible; margin-left: -30px; line-height: 1.3; top: 50px;" class="text-uppercase text-white pt-5 mt-5">
 								<strong>Conceived to reimagine resort inspired lifestyle</strong>
 							</h4>
-							<img src="images/square/001.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
+							<img  alt="tilal al ghaf"  src="images/img101.webp" class="" height="350px" width="350px;"  style="margin-left: -30px !important; z-index: -5; border-radius: 50%; overflow: visible; filter: brightness(50%);"/>
 							
 						</div>
 					</div>
 
 					<div class="col-md-6 gx-5 mb-0 px-0 mx-0 text-white" style="margin-top: 0px;">
-						<h4 style="font-size: 1.5rem;" class="text-uppercase pt-1"><strong>Connectivity of Bluewaters Bay</strong></h4>
+						<h4 style="font-size: 1.5em;" class="text-uppercase pt-1"><strong>Connectivity of Bluewaters Bay</strong></h4>
 						
-						<!-- <p class=""><strong>Doloremque vero ex debitis veritatis?</strong></p> -->
-						<p class="text-muted" style="font-size: 1.2rem;">
+						<p class="text-muted" style="font-size: 1em; text-align: justify; line-height: 1.5;" class="p-2">
 							It's unique location in
 							one of the popular
 							areas the city enables
@@ -1589,34 +3045,34 @@
 						</p>
 						<div class="row my-4" >
 								<div class="col-6">
-									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 1.5rem; line-height: 1.2">
-										10 minute walk
+									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 1.2em; line-height: 1.2">
+										5 minutes drive
 									</p>
-									<p class="my-0">from The Beach at JBR</p>
+									<p class="my-0" style="font-size: 1em">from Miracle Garden</p>
 								</div>
 								<div class="col-6">
-									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 1.5rem; line-height: 1.2">
-										5 minute drive
+									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 1.2em; line-height: 1.2">
+										20 minutes drive
 									</p>
-									<p class="my-0">from Dubai Marina</p>
+									<p class="my-0" style="font-size: 1em">from Palm Jumeirah</p>
 								</div>
 							</div>
 							<div class="row my-4" >
 								<div class="col-6">
-									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 1.5rem; line-height: 1.2">
-										10 minute drive
+									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 1.2em; line-height: 1.2">
+										25 minute drive
 									</p>
-									<p class="my-0">from The Palm</p>
+									<p class="my-0" style="font-size: 1em">from Downtown</p>
 								</div>
-								<div class="col-6">
-									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 1.5rem; line-height: 1.2">
-										15 minute drive
+								<div class="col-6" style="font-size: 1em">
+									<p class="text-white my-1 fw-bolder font-kanit" style="font-size: 1.2em; line-height: 1.2">
+										35 minute drive
 									</p>
-									<p class="my-0">from Downtown Dubai</p>
+									<p class="my-0">from Dubai International Airport</p>
 								</div>
 							</div>
 
-						<a href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+						<a aria-label="Townhouses, Villas & Mansions in Dubai - Tilal Al Ghaf" href="#" style="font-size: 2rem; color:  #fff;  width: 600px" class="text-uppercase my-4 text-white pe-auto fw-bolder" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
 							<i class="fa fa-arrow-right"></i>
 							Download Brochure
 						</a>
@@ -1626,29 +3082,29 @@
 			</section>
 
 
-
-
-
-
 			<!-- location Desktop -->
-			<section id="" class="d-md-block d-lg-block d-none py-0 my-0 px-0 mx-0 ">
+			<section id="location-desktop" class="d-md-block d-lg-block d-none py-0 my-0 px-0 mx-0 ">
 
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d68762.59946418274!2d55.13356795392697!3d25.071747287907044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f14a3a1406151%3A0x685a13c2c660db2f!2sBluewaters!5e0!3m2!1sen!2sae!4v1670590116783!5m2!1sen!2sae" 
-				width="100%" height="700" style="border:0;" allowfullscreen="true" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				<iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122509.26060424162!2d55.193390525014344!3d25.083495956096154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6f15393face1%3A0x61437b01be2dfb8c!2sTilal%20Al%20Ghaf!5e0!3m2!1sen!2sae!4v1675166823564!5m2!1sen!2sae"
+				width="100%" height="700" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 			</section>
 
 
 			<!-- location mobile -->
-			
-
-			<section class="d-md-block d-block d-lg-none py-0 my-0 px-0 mx-0">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d68762.59946418274!2d55.13356795392697!3d25.071747287907044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f14a3a1406151%3A0x685a13c2c660db2f!2sBluewaters!5e0!3m2!1sen!2sae!4v1670590116783!5m2!1sen!2sae" 
-				width="100%" height="700" style="border:0;" allowfullscreen="true" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+			<section id="location-mobile" class="d-md-block d-block d-lg-none py-0 my-0 px-0 mx-0">
+				<iframe title="map"   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122509.26060424162!2d55.193390525014344!3d25.083495956096154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6f15393face1%3A0x61437b01be2dfb8c!2sTilal%20Al%20Ghaf!5e0!3m2!1sen!2sae!4v1675166823564!5m2!1sen!2sae"
+				width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+				
 			</section>
 
 
 	</main>
+
+
+
+
 
 	<!-- desktop view form -->
 	<section class="bg-black text-white d-md-block d-lg-block d-none text-center m-0" style="margin-top: -10px !important;">
@@ -1697,10 +3153,12 @@
 							<select name="bedrooms" id="cars" class="form-control2 fs-5 text text-dark w-100 rounded" required 
 							style="padding: 18px 10px; line-height: 28px; border-style: 1px; border-color:#999; ">
 								<option value="" style="color: #4F4F4F;">How Many Bedrooms?</option>
-								<option value="5 Bedrooms">1 Bedrooms</option>
-								<option value="2 Bedrooms">2 Bedrooms</option>
-								<option value="3 Bedrooms">3 Bedrooms</option>
-								<option value="4 Bedrooms">4 Bedrooms</option>
+								<option value="3 Bedroom Townhouse">3 Bedroom Townhouse</option>
+								<option value="4 Bedroom Townhouse">4 Bedroom Townhouse</option>
+								<option value="4 Bedroom Standalone Villa">4 Bedroom Standalone Villa</option>
+								<option value="5 Bedroom Standalone Villa">5 Bedroom Standalone Villa</option>
+								<option value="6 Bedroom Standalone Villa">6 Bedroom Standalone Villa</option>
+								<option value="Mansion">Mansion</option>
 							</select>
 						</div>
 
@@ -1718,7 +3176,7 @@
 
 
 	<!-- mobile view form -->
-	<section class="d-md-block d-block d-lg-none text-center m-0">
+	<section class="d-md-block d-block d-lg-none text-center m-0 my-5">
 		<div class="px-3 text-center">
 			<div class="row mx-auto">
 
@@ -1761,10 +3219,12 @@
 							<select name="bedrooms" id="cars" class="form-control2 fs-6 text text-dark w-100 rounded" required 
 							style="padding: 15px 10px; line-height: 28px; border-style: 1px; border-color:#999; ">
 								<option value="" style="color: #4F4F4F;">How Many Bedrooms?</option>
-								<option value="1 Bedrooms">1 Bedroom</option>
-								<option value="2 Bedrooms">2 Bedroom</option>
-								<option value="3 Bedrooms">3 Bedrooms</option>
-								<option value="4 Bedrooms">4 Bedrooms</option>
+								<option value="3 Bedroom Townhouse">3 Bedroom Townhouse</option>
+								<option value="4 Bedroom Townhouse">4 Bedroom Townhouse</option>
+								<option value="4 Bedroom Standalone Villa">4 Bedroom Standalone Villa</option>
+								<option value="5 Bedroom Standalone Villa">5 Bedroom Standalone Villa</option>
+								<option value="6 Bedroom Standalone Villa">6 Bedroom Standalone Villa</option>
+								<option value="Mansion">Mansion</option>
 							</select>
 						</div>
 
@@ -1779,74 +3239,6 @@
 
 
 
-	<section class="d-md-block d-block d-lg-none m-0 p-0" style="position: fixed; left: 0; bottom: 0; width: 100%; color: white; text-align: center; z-index: 5;">
-		<div class="row">
-			<a href="tel:+97143881856" class="col-6 bg-black py-2 text-white">
-				<img src="images/cover/call.png" height="20px;"> 
-				+971 4 388 1856
-			</a>
-			<a href="https://api.whatsapp.com/send?phone=971585602665" class="col-6 bg-success py-2 text-white">
-				<img src="images/cover/wa.png" height="30px;"> 
-				Chat
-			</a>
-		</div>
-	</section>
-
-	<!-- desktop view -->
-	<section class="d-md-block d-lg-block d-none m-0 p-0 bg-transparent" dir="LTR" style="position: fixed; left: 0; bottom: 0; width: 100%; color: white; text-align: center; z-index: 5;">
-	<style>
-		.bounce2 {
-			display: inline-block;
-			position: relative;
-			-moz-animation: bounce 1.5s infinite linear;
-			-o-animation: bounce 1.5s infinite linear;
-			-webkit-animation: bounce 1.5s infinite linear;
-			animation: bounce 1.5s infinite linear;
-			}
-			@-webkit-keyframes bounce2 {
-				0% { top: 0; }
-				50% { top: -0.3em; }
-				70% { top: -0.4em; }
-				100% { top: 0; }
-			}
-			@-moz-keyframes bounce2 {
-				0% { top: 0; }
-				50% { top: -0.3em; }
-				70% { top: -0.4em; }
-				100% { top: 0; }
-			}
-			@-o-keyframes bounce2 {
-				0% { top: 0; }
-				50% { top: -0.3em; }
-				70% { top: -0.4em; }
-				100% { top: 0; }
-			}
-			@-ms-keyframes bounce2 {
-				0% { top: 0; }
-				50% { top: -0.3em; }
-				70% { top: -0.4em; }
-				100% { top: 0; }
-			}
-			@keyframes bounce2 {
-				0% { top: 0; }
-				50% { top: -0.3em; }
-				70% { top: -0.4em; }
-				100% { top: 0; }
-			}
-	</style>
-		<div class="float-end mx-4 mb-3 bounce2">
-
-			<a href="tel:+97143881856" class="col-6 py-2 text-white mx-1" style="border-radius: 50%;" data-mdb-toggle="tooltip" title="Call">
-				<img src="images/cover/call.png" class="rounded-circle bg-black p-3" style="width: 70px;" alt="Avatar" />
-			</a>
-
-			<a href="https://api.whatsapp.com/send?phone=971585602665"  style="border-radius: 50%; " class="col-6 py-2 text-white mx-1" data-mdb-toggle="tooltip" title="Chat on WhatsApp">
-				<img src="images/cover/wa.png" class="rounded-circle bg-success p-1" style="width: 70px;" alt="Avatar" />
-			</a>		
-			
-		</div>
-	</section>
-
 
 
 
@@ -1859,7 +3251,7 @@
 
 		<div class="text-center p-3 py-3 my-3" style="background-color: rgba(255, 255, 255, 0); color: grey !important;">
 		
-			© 2022 Copyright
+			© 2023 Copyright
 			<a class="text-dark" href="https://edgerealty.ae/" style="color: grey !important;">Edge Realty Real Estate</a>
 		</div>
 	</footer>
@@ -1878,7 +3270,7 @@
 			<!-- Copyright -->
 		<div class="text-center p-3 py-3 my-3" style="background-color: rgba(255, 255, 255, 0); color: grey !important;">
 		
-			© 2022 Copyright
+			© 2023 Copyright
 			<a class="text-dark" href="https://edgerealty.ae/" style="color: grey !important;">Edge Realty Real Estate</a>
 		</div>
 		<!-- Copyright -->
@@ -1893,293 +3285,17 @@
 
 
 
-
-
-
-
-
-<script>
-	var $logo = $('#myBtn');
-	$(document).scroll(function() {
-		if($(this).scrollTop()> 100)
-		{   //alert("scop");
-	//  $logo.css({display: $(this).scrollTop() > 100? "block":"none"});
-		$('#myBtn').css("display", "block");
-		}else{
-			$('#myBtn').css("display", "none");
-		}
-		
-	});
-
-	document.querySelectorAll('a[href^="#myBtn"]').forEach(anchor => {
-		anchor.addEventListener('click', function (e) {
-			e.preventDefault();
-
-			document.querySelector(this.getAttribute('href')).scrollIntoView({
-				behavior: 'smooth'
-			});
-		});
-	});
-
-
-	
-
-</script>
-
-
-<script >
-	document.querySelectorAll('a[href^="#contact-form"]').forEach(anchor => {
-		anchor.addEventListener('click', function (e) {
-			e.preventDefault();
-
-			document.querySelector(this.getAttribute('href')).scrollIntoView({
-				behavior: 'smooth'
-			});
-		});
-	});
-</script>
-
-
-
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.4.0/mdb.min.js"></script>
 <script src="js/old/jquery.js"></script>
-<!-- <script src="js/old/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="js/old/jquery.fancybox.js"></script>
-<script src="js/old/wow.js"></script>
-<script src="js/old/mixitup.js"></script>
-<script src="js/old/appear.js"></script>
-<script src="js/old/swiper.min.js"></script>
-<script src="js/old/simple-lightbox.min.html"></script>
-<script src="js/old/isotope.js"></script> -->
 <script src="js/intlTelInput.js"></script>
-<script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
 <script src="js/lightbox.js"></script>
-<!-- <script src="js/old/query1.js"></script>
-<script src="js/old/query2.js"></script>
-<script src="js/old/query3.js"></script>
-<script src="js/old/map-script.js"></script>
-<script src="js/old/color-settings.js"></script>
-<script src="js/old/auto_popup.js"></script> -->
+<script src="owlcarousel/js/owl.carousel.min.js"></script>
+<script src="js/fslightbox.js"></script>
+<script src="js/main.js"></script>
+
 
 <script>
-	function myFunction() {
-		var x = document.getElementById("myDIV");
-		var y = document.getElementById("myDIV2");
-		if (x.innerHTML === "€ 655,025 <br> Starting Price ") {
-			x.innerHTML = "AED 2,560,000 <br> Starting Price ";
-			y.innerHTML = "IN EURO";
-		} else {
-			x.innerHTML = "€ 655,025 <br> Starting Price ";
-			y.innerHTML = "IN AED";
-		}
-	}
-	
-	function oneBedroom() {
-		var x = document.getElementById("oneBedroom");
-		var y = document.getElementById("twoBedroom");
-		var z = document.getElementById("threeBedroom");
-		var w = document.getElementById("fourBedroom");
-
-		var s = document.getElementById("1_bedd");
-		var p = document.getElementById("2_bedd");
-		var q = document.getElementById("3_bedd");
-		var r = document.getElementById("4_bedd");
-		// if (x.style.display === "none") {
-
-			x.style.display = "block";
-			y.style.display = "none";
-			z.style.display = "none";
-			w.style.display = "none";
-			
-			s.style.textDecoration = 'underline';
-			p.style.textDecoration = 'none';
-			q.style.textDecoration = 'none';
-			r.style.textDecoration = 'none';
-
-			
-		// } else {
-			// x.style.display = "none";
-			// y.style.display = "block";
-			// z.style.display = "block";
-			// w.style.display = "block";
-		// }
-	}
-
-	function twoBedroom() {
-		var x = document.getElementById("oneBedroom");
-		var y = document.getElementById("twoBedroom");
-		var z = document.getElementById("threeBedroom");
-		var w = document.getElementById("fourBedroom");
-		var s = document.getElementById("2_bedd");
-
-		var p = document.getElementById("1_bedd");
-		var q = document.getElementById("3_bedd");
-		var r = document.getElementById("4_bedd");
-
-		x.style.display = "none";
-		y.style.display = "block";
-		z.style.display = "none";
-		w.style.display = "none";
-
-
-		s.style.textDecoration = 'underline';
-		p.style.textDecoration = 'none';
-		q.style.textDecoration = 'none';
-		r.style.textDecoration = 'none';
-	}
-
-
-	function threeBedroom() {
-		var x = document.getElementById("oneBedroom");
-		var y = document.getElementById("twoBedroom");
-		var z = document.getElementById("threeBedroom");
-		var w = document.getElementById("fourBedroom");
-		
-		var s = document.getElementById("3_bedd");
-		var p = document.getElementById("1_bedd");
-		var q = document.getElementById("2_bedd");
-		var r = document.getElementById("4_bedd");
-
-		x.style.display = "none";
-		y.style.display = "none";
-		z.style.display = "block";
-		w.style.display = "none";
-
-		s.style.textDecoration = 'underline';
-		p.style.textDecoration = 'none';
-		q.style.textDecoration = 'none';
-		r.style.textDecoration = 'none';
-	}
-
-
-	function fourBedroom() {
-		var x = document.getElementById("oneBedroom");
-		var y = document.getElementById("twoBedroom");
-		var z = document.getElementById("threeBedroom");
-		var w = document.getElementById("fourBedroom");
-		var s = document.getElementById("4_bedd");
-
-		var p = document.getElementById("1_bedd");
-		var q = document.getElementById("2_bedd");
-		var r = document.getElementById("3_bedd");
-
-		
-		x.style.display = "none";
-		y.style.display = "none";
-		z.style.display = "none";
-		w.style.display = "block";
-
-		s.style.textDecoration = 'underline';
-		p.style.textDecoration = 'none';
-		q.style.textDecoration = 'none';
-		r.style.textDecoration = 'none';
-	}
-
-
-
-
-
-	function oneBedroom2() {
-		var x = document.getElementById("oneBedroom2");
-		var y = document.getElementById("twoBedroom2");
-		var z = document.getElementById("threeBedroom2");
-		var w = document.getElementById("fourBedroom2");
-		var s = document.getElementById("1_bed");
-
-		var p = document.getElementById("3_bed");
-		var q = document.getElementById("2_bed");
-		var r = document.getElementById("4_bed");
-
-		// if (x.style.display === "none") {
-		x.style.display = "block";
-		y.style.display = "none";
-		z.style.display = "none";
-		w.style.display = "none";
-
-		s.style.textDecoration = 'underline';
-		p.style.textDecoration = 'none';
-		q.style.textDecoration = 'none';
-		r.style.textDecoration = 'none';
-		// } else {
-			// x.style.display = "none";
-			// y.style.display = "block";
-			// z.style.display = "block";
-			// w.style.display = "block";
-		// }
-	}
-
-	function twoBedroom2() {
-		var x = document.getElementById("oneBedroom2");
-		var y = document.getElementById("twoBedroom2");
-		var z = document.getElementById("threeBedroom2");
-		var w = document.getElementById("fourBedroom2");
-		var s = document.getElementById("2_bed");
-
-		var p = document.getElementById("3_bed");
-		var q = document.getElementById("1_bed");
-		var r = document.getElementById("4_bed");
-
-		x.style.display = "none";
-		y.style.display = "block";
-		z.style.display = "none";
-		w.style.display = "none";
-
-		s.style.textDecoration = 'underline';
-		p.style.textDecoration = 'none';
-		q.style.textDecoration = 'none';
-		r.style.textDecoration = 'none';
-	}
-
-
-	function threeBedroom2() {
-		var x = document.getElementById("oneBedroom2");
-		var y = document.getElementById("twoBedroom2");
-		var z = document.getElementById("threeBedroom2");
-		var w = document.getElementById("fourBedroom2");
-		var s = document.getElementById("3_bed");
-
-		var p = document.getElementById("1_bed");
-		var q = document.getElementById("2_bed");
-		var r = document.getElementById("4_bed");
-
-		x.style.display = "none";
-		y.style.display = "none";
-		z.style.display = "block";
-		w.style.display = "none";
-
-		s.style.textDecoration = 'underline';
-		p.style.textDecoration = 'none';
-		q.style.textDecoration = 'none';
-		r.style.textDecoration = 'none';
-	}
-
-
-	function fourBedroom2() {
-		var x = document.getElementById("oneBedroom2");
-		var y = document.getElementById("twoBedroom2");
-		var z = document.getElementById("threeBedroom2");
-		var w = document.getElementById("fourBedroom2");
-		var s = document.getElementById("4_bed");
-
-		var p = document.getElementById("1_bed");
-		var q = document.getElementById("2_bed");
-		var r = document.getElementById("3_bed");
-
-
-		x.style.display = "none";
-		y.style.display = "none";
-		z.style.display = "none";
-		w.style.display = "block";
-
-		s.style.textDecoration = 'underline';
-		p.style.textDecoration = 'none';
-		q.style.textDecoration = 'none';
-		r.style.textDecoration = 'none';
-	}
-</script>
-
-<script>
-    var itiPhone = $(".iti-phone");
+	 var itiPhone = $(".iti-phone");
 
     itiPhone.intlTelInput({
         separateDialCode: false,
@@ -2199,21 +3315,6 @@
 	  },
     });
 
-
-</script>
-<script>
-    var swiper = new Swiper('.swiper-container', {
-      pagination: {
-        el: '.swiper-pagination',
-        dynamicBullets: true,
-      },
-    });
- </script>
-
-
-<script>
-
-
 	function AllowOnlyNumbers(e) {
 
 	e = (e) ? e : window.event;
@@ -2223,61 +3324,49 @@
 
 	return (/^\d+$/.test(str));
 	}
-</script>
 
-<script>
 	jQuery(document).ready(function($){
-	// Parse the URL
-	function getParameterByName(name) {
-		name = name.replace(/[\[]/, "\[").replace(/[\]]/, "\]");
-		var regex = new RegExp("[\?&]" + name + "=([^&#]*)"),
-			results = regex.exec(location.search);
-		return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-	}
+		// Parse the URL
+		function getParameterByName(name) {
+			name = name.replace(/[\[]/, "\[").replace(/[\]]/, "\]");
+			var regex = new RegExp("[\?&]" + name + "=([^&#]*)"),
+				results = regex.exec(location.search);
+			return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
 
-	// UTM TRACKING
-	// Get the URL parameters variable by UTM names
-	var source = getParameterByName('utm_source');
-	var medium = getParameterByName('utm_medium');
-	var campaign = getParameterByName('utm_campaign');
-	var content = getParameterByName('utm_content');
-	var term = getParameterByName('utm_term');
+		// UTM TRACKING
+		// Get the URL parameters variable by UTM names
+		var source = getParameterByName('utm_source');
+		var medium = getParameterByName('utm_medium');
+		var campaign = getParameterByName('utm_campaign');
+		var content = getParameterByName('utm_content');
+		var term = getParameterByName('utm_term');
 
-	// Set UTM function: assumes all hidden fields follow this format : <input name="utm_term" type="hidden">
-	var set_utm = function setutm(utm_param, utm_val){
-	  if (Cookies.get(utm_param+'y') != undefined) {
-		jQuery('input[name="utm_'+utm_param+'"]').val('');
-		//console.log('Reset code for cookie time');
-		jQuery('input[name="utm_'+utm_param+'"]').val(Cookies.get(utm_param+'y'));
-		//console.log('Set input to ' + Cookies.get(utm_param+'y'));
-	  } else {
-		//console.log('Using current code / no code set');
-		if (utm_val != "" ) {
-		  //console.log('Set the cookie');
-		  Cookies.set(utm_param+'y', utm_val, {path: '/'});
-		};
-	  }; 
-	}
+		// Set UTM function: assumes all hidden fields follow this format : <input name="utm_term" type="hidden">
+		var set_utm = function setutm(utm_param, utm_val){
+		if (Cookies.get(utm_param+'y') != undefined) {
+			jQuery('input[name="utm_'+utm_param+'"]').val('');
+			//console.log('Reset code for cookie time');
+			jQuery('input[name="utm_'+utm_param+'"]').val(Cookies.get(utm_param+'y'));
+			//console.log('Set input to ' + Cookies.get(utm_param+'y'));
+		} else {
+			//console.log('Using current code / no code set');
+			if (utm_val != "" ) {
+			//console.log('Set the cookie');
+			Cookies.set(utm_param+'y', utm_val, {path: '/'});
+			};
+		}; 
+		}
 
-	// Do the Set UTM function for each UTM
-	set_utm('source', source);
-	set_utm('medium', medium);
-	set_utm('campaign', campaign);
-	set_utm('content', content);
-	set_utm('term', term);
-});
+		// Do the Set UTM function for each UTM
+		set_utm('source', source);
+		set_utm('medium', medium);
+		set_utm('campaign', campaign);
+		set_utm('content', content);
+		set_utm('term', term);
+	});
 </script>
 
-
-<script>
-  mapboxgl.accessToken = 'pk.eyJ1IjoiZWRnZXJlYWx0eSIsImEiOiJjbDhtcmtsOXQwbHBqM3BxamRrZjQ0Z2FqIn0.tZ37gCURC_X-xLkeltEx4g';
-  var map = new mapboxgl.Map({
-    container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v11',
-	center: [55.272430, 25.184242], // longitude, lattitude
-	zoom: 0
-  });
-</script>
 
 </body>
 
